@@ -77,12 +77,14 @@ order: 3
 
 1. ICIRASTE'2021-The International Conference on Interdisciplinary Research in Applied Sciences, Technologies and Engineering. **June, 5-6, 2021**. Sbeitla-Kasserine, Tunisia.  **Oscar L. Cruz-González**, Reinaldo Rodríguez-Ramos, Frederic Lebon. *Evaluation of the effective viscoelastic properties of short fibers reinforced composites**.  Proceedings of the conference. 
 [<img src="img/download_link.png" alt="Download link" width="15"/>](https://hal.science/hal-03505391v1/document) 
-[<img src="img/external_link.png" alt="External link" width="15"/>](http://www.issatkas.rnu.tn/fra/pages/293/ICIRASTE-2021-conference?fbclid=IwAR1soZLrxx2WUN0Iy9qzNSHD2j1aJpRbywXZTow5xtkOzhKKGJYMyWmmfps)<!-- Author's rights -->
+<!-- [<img src="img/external_link.png" alt="External link" width="15"/>](http://www.issatkas.rnu.tn/fra/pages/293/ICIRASTE-2021-conference?fbclid=IwAR1soZLrxx2WUN0Iy9qzNSHD2j1aJpRbywXZTow5xtkOzhKKGJYMyWmmfps) -->
+<!-- Author's rights -->
 
 
 2. 5th Brazilian Conference on Composite Materials-BCCM 5. **January, 18-22, 2021**. V. Tita, J. R. Tarpani and M. L. Ribeiro (Editors). Sao Carlos School of Engineering – University of Sao Paulo, Brazil.  **Oscar L. Cruz-González**, Reinaldo Rodríguez-Ramos, Frederic Lebon. *Overall viscoelastic properties of fiber-reinforced hierarchical composites**.  Proceedings of the conference. 
-[<img src="img/download_link.png" alt="Download link" width="15"/>](http://soac.eesc.usp.br/index.php/bccm/5bccm/paper/viewFile/2964/1870) 
-[<img src="img/external_link.png" alt="External link" width="15"/>](http://soac.eesc.usp.br/index.php/bccm/5bccm)<!-- Author's rights -->
+[<img src="img/download_link.png" alt="Download link" width="15"/>](https://hal.science/hal-03225876v1/document) 
+<!-- [<img src="img/external_link.png" alt="External link" width="15"/>](http://soac.eesc.usp.br/index.php/bccm/5bccm) -->
+<!-- Author's rights -->
  
 
 3. JNC 21: Journées Nationales sur les Composites. **July 1-3, 2019**. Bordeaux, France.  **Oscar L. Cruz-González**, Ariel Ramírez-Torres, Reinaldo Rodríguez-Ramos, Frederic Lebon. *Homogénéisation triple échelle de matériaux composites viscoélastiques*.  Proceedings of the conference. 
@@ -96,4 +98,5 @@ order: 3
 [<img src="img/external_link.png" alt="External link" width="15"/>](https://www.elibrary.ru/item.asp?id=29411430)<!-- Author's rights -->
 
 6. VIII International Scientific Convention "Integrated and Innovative University", CIUM. **April 10-14, 2017**. Varadero, Matanzas, Cuba. Proceedings of the conference, ISBN 978-959-16-3296-8.  **Oscar L. Cruz-González**. *Facial Recognition*. 
-[<img src="img/external_link.png" alt="External link" width="15"/>](www.umcc.cu)<!-- Author's rights -->
+<!-- [<img src="img/external_link.png" alt="External link" width="15"/>](www.umcc.cu) -->
+<!-- Author's rights -->
