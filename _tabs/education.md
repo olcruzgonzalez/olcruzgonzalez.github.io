@@ -64,7 +64,7 @@ order: 4
     </ul>
   </div>
   <div class="column3">
-    <img src="assets/img/education/LMA.png" alt="LMA image" width="200">
+    <img src="/assets/img/education/LMA.png" alt="LMA image" width="200">
   </div>
   <div class="empty"></div>
 </div>
@@ -88,7 +88,7 @@ order: 4
     </ul>
   </div>
   <div class="column3">
-    <img src="assets/img/education/UH.png" alt="UH image" width="120">
+    <img src="/assets/img/education/UH.png" alt="UH image" width="120">
   </div>
   <div class="empty"></div> <!-- Minimal width column for spacing -->
 </div>
@@ -111,7 +111,7 @@ order: 4
     </ul>
   </div>
   <div class="column3">
-    <img src="assets/img/education/UH.png" alt="UH image" width="120">
+    <img src="/assets/img/education/UH.png" alt="UH image" width="120">
   </div>
   <div class="empty"></div> <!-- Minimal width column for spacing -->
 </div>
