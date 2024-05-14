@@ -6,3 +6,5 @@ order: 2
 
 > Website under construction.
 {: .prompt-warning }
+
+<!-- Download full CV -->

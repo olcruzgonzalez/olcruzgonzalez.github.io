@@ -50,9 +50,9 @@ order: 4
   <div class="column1_2">
     <ul>
       <li> 
-        Aix-Marseille University. L’Ecole Doctorale Sciences pour l’Ingénieur : <br> Mécanique, Physique, Micro et Nanoélectronique / ED 353. 
+        <b> Doctor of Philosophy (PhD), Engineering Sciences in Solid Mechanics</b>. 
+        <br> Aix-Marseille University. L’Ecole Doctorale Sciences pour l’Ingénieur : <br> Mécanique, Physique, Micro et Nanoélectronique / ED 353. 
         <br> Research unit of CNRS: Laboratoire de Mécanique et d’Acoustique (UMR 7031)
-        <br>  Degree: <b>Doctor of Philosophy (PhD), Engineering Sciences in Solid Mechanics</b>. 
         <br> <a href="https://theses.fr/2021AIXM0552"> 
           Thesis: 
         </a> "Modeling of linear viscoelastic composite materials
@@ -81,8 +81,8 @@ order: 4
   <div class="column1_2">
     <ul>
       <li> 
-        University of Havana. Faculty of Mathematics and Computer Sciences. 
-        <br> Degree: <b>Master of Science (MSc), Mathematics</b>. 
+        <b> Master of Science (MSc), Mathematics</b>. 
+        <br> University of Havana. Faculty of Mathematics and Computer Sciences. 
         <br> Research: "Homogenization of linear, non-ageing,<br> viscoelastic composites with generalized periodicity"
       </li>
     </ul>
@@ -105,8 +105,8 @@ order: 4
   <div class="column1_2">
     <ul>
       <li> 
-        University of Havana. Faculty of Mathematics and Computer Sciences. 
-        <br> Degree: <b>Bachelor of Science (BSc), Mathematics</b>
+        <b> Bachelor of Science (BSc), Mathematics</b>
+        <br> University of Havana. Faculty of Mathematics and Computer Sciences. 
       </li>
     </ul>
   </div>
