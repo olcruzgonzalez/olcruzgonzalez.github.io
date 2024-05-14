@@ -110,7 +110,7 @@ order: 5
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.even3.com.br/v-semmat/)
 
 3. Décimo Séptimo Taller de Física de la Materia Condensada y Molecular. **June, 26th-28th, 2023**. Speaker: Reinaldo Rodr\'iguez-Ramo. *Imperfect interfaces in viscoelastic composite materials. Authors:  R. Rodríguez-Ramos, *Oscar L. Cruz-González*, F. Lebon, Y. Espinosa-Almeyda, H. Camacho-Montes, P. Rodríguez-Bermúdez, José A. Otero. Universidad Autónoma del Estado de Morelos. 
-[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://www.fc.uaem.mx/~tallerfmcm/#:~:text=El%20D%C3%A9cimo%20S%C3%A9ptimo%20(XVII)%20Taller,de%20pl%C3%A1ticas%20como%20de%20carteles.)
+<!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://www.fc.uaem.mx/~tallerfmcm/#:~:text=El%20D%C3%A9cimo%20S%C3%A9ptimo%20(XVII)%20Taller,de%20pl%C3%A1ticas%20como%20de%20carteles.) -->
 
 
 4. Seminar Team MISES, Institut Jean Le Rond d’Alembert, Sorbonne University. **September 13th, 2022**. Speaker: **Oscar L. Cruz González**. *Characterizing short-fiber composites using advanced micro-mechanical models*. Authors:  Oscar L. Cruz-González, Rémi Cornaggia, Sophie Dartois, Renald Brenner. 
@@ -120,15 +120,15 @@ order: 5
 
 
 6. Séminaire Jeunes Chercheurs. **July 13, 2021**. Laboratoire de Mécanique et d'Acoustique-LMA, Marseille, France. Speaker: **O.L. Cruz-González**. *A hierarchical asymptotic homogenization approach for the analysis of the effective mechanical behavior of viscoelastic composite materials*. Authors: Oscar L. Cruz-González, Reinaldo Rodr\'iguez-Ramos, Frederic Lebon. 
-[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://www.lma.cnrs-mrs.fr/spip.php?article1005&lang=fr)
+<!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://www.lma.cnrs-mrs.fr/spip.php?article1005&lang=fr) -->
 
 
 7. Workshop MISTRAL: Homogenization methods. First internal workshop of the joint laboratory. ** June 9, 2021**. IUT d’Aix-en-Provence Amphi Est, Marseille, France. Speaker: **O.L. Cruz-González**. *Semi-analytical approach for the homogenization of viscoelastic composite materials. Authors: Oscar L. Cruz-González, Reinaldo Rodr\'iguez-Ramos, Frederic Lebon. 
-[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://soac.eesc.usp.br/index.php/bccm/5bccm)
+<!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://soac.eesc.usp.br/index.php/bccm/5bccm) -->
 
 
 8. ICIRASTE'2021. **June, 5-6, 2021**. Speaker: **O.L. Cruz-González**. \textit{Evaluation of the effective viscoelastic properties of short fibers reinforced composites}.  Authors: Oscar L. Cruz-González, Reinaldo Rodr\'iguez-Ramos, Frederic Lebon. 
-[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://www.issatkas.rnu.tn/fra/pages/293/ICIRASTE-2021-conference?fbclid=IwAR1soZLrxx2WUN0Iy9qzNSHD2j1aJpRbywXZTow5xtkOzhKKGJYMyWmmfps)
+<!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://www.issatkas.rnu.tn/fra/pages/293/ICIRASTE-2021-conference?fbclid=IwAR1soZLrxx2WUN0Iy9qzNSHD2j1aJpRbywXZTow5xtkOzhKKGJYMyWmmfps) -->
 
 
 9. SIAM Conference on Mathematical Aspects of Materials Science-MS 21. Minisymposium "Multi-scale modelling in Biomechanic" (MS67). **May, 17-27, 2021**. Virtual. Speaker: **O.L. Cruz-González**. *Multi-scale Homogenization of Hierarchical Viscoelastic Composites*. Authors: Oscar L. Cruz-González, R. Rodríguez-Ramos,  A. Ramírez-Torres, R. Penta, F. Lebon.  
@@ -140,11 +140,11 @@ order: 5
 
 
 11. 5th Brazilian Conference on Composite Materials. **January, 18th-22nd, 2021**. Keynotes: Prof. Reinaldo Rodriguez Ramos. *A semi-analytical approach to describe the effective behavior of viscoelastic composites*. Authors: R. Rodríguez-Ramos, **Oscar L. Cruz-González**, J. A. Otero, F. Lebon. Collaborators: A. Ramírez-Torres, R. Penta. 
-[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://soac.eesc.usp.br/index.php/bccm/5bccm)
+<!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://soac.eesc.usp.br/index.php/bccm/5bccm) -->
 
 
 12. 5th Brazilian Conference on Composite Materials. **January, 18th-22nd, 2021**. Speaker: **O.L. Cruz-González**. *Overall viscoelastic properties of fiber-reinforced hierarchical composites*. Authors:  Oscar L. Cruz-González, Reinaldo Rodr\'iguez-Ramos, Frederic Lebon. 
-[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://soac.eesc.usp.br/index.php/bccm/5bccm)
+<!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://soac.eesc.usp.br/index.php/bccm/5bccm) -->
 
 
 13. Applied Mathematics online seminar series programmed by the School of Mathematics
@@ -167,7 +167,7 @@ Tecnológico y de Estudios Superiores de Monterrey. **September 30th, 2020**. Sp
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.ifme.ovgu.de/)
 
 18. Presentation at Karlsruhe Institute of Technology (KIT). Speaker: Prof. Reinaldo Rodríguez Ramos (Faculty of Mathematics and Computer Science, University of Havana). *Three scale asymptotic homogenization method for viscoelastic heterogeneous media. Applications*. Authors: R. Rodr\'iguez-Ramos, **Oscar L. Cruz-Gonz\'alez**, F. Lebon.  **December 4, 2019**. Contact person: Thomas B\"ohlke (Speaker).  
-[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://www.grk2078.kit.edu/)
+<!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://www.grk2078.kit.edu/) -->
 
 
 19. Journée des Doctorants du Laboratoire de Mécanique et d'Acoustique. **December 4, 2019**. Speaker: **Oscar L. Cruz-Gonz\'alez**. Marseille, France.
