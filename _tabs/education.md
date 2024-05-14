@@ -57,7 +57,7 @@ order: 4
         <br> Research: "Modeling of linear viscoelastic composite materials
         <br> with hierarchical structure and imperfect interfaces
         <br> via a three-scale asymptotic homogenization approach." 
-        <a href="http://www.theses.fr/s214525"> 
+        <a href="https://theses.fr/2021AIXM0552"> 
           <img src="https://github.com/olcruzgonzalez/olcruzgonzalez.github.io/tree/main/assets/img/external_link.png" alt="External link" width="15"/> 
         </a>
         <br> Supervisor: <a href="mailto:lebon@lma.cnrs-mrs.fr"> Frederic Lebon</a>
