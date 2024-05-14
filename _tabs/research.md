@@ -193,7 +193,7 @@ Tecnológico y de Estudios Superiores de Monterrey. **September 30th, 2020**. Sp
 
 
 25. II International Workshop of Didactic and Application of the Basic Science. University of Matanzas. Speaker: **Oscar L. Cruz-González**. *Facial Recognition*. **April, 2017**. Matanzas, Cuba.
-[<img src="/assets/img/external_link.png" alt="External link" width="15"/>]({www.umcc.cu)
+<!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>]({www.umcc.cu) -->
 
 26. JCE. Faculty of Mathematics and Computer Sciences. University of Havana. Speaker: Oscar L. Cruz-González. **April, 2016**. Havana, Cuba.   
     - *Método de Homogeneización asintótica en una dimensión  para materiales viscoelásticos*. Authors: *Oscar L. Cruz-González*, Reinaldo Rodríguez-Ramos,  Raúl Guinovart-Díaz, Julián Bravo-Castillero. **Mention award**. 
