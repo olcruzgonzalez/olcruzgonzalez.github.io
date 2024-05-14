@@ -7,10 +7,8 @@ title: Postdoctoral Research Associate - AI for Engineering.
 
 Title: Substitution of numerical fluid mechanics models by deep learning models. Applications to vascular pathologies
 
-
 ![Figure1](/assets/img/experience/project_marseille.png)
 Left: Geometric model of the thoracic aorta. Right: Velocity field in a longitudinal plane
-
 
 The criteria typically used in clinical routine to evaluate the progression of certain pathologies, such as aneurysms and/or dissections of the thoracic aorta, are not sufficiently discriminative to predict the best treatments early on. In this regard, the biomechanics team at IRPHE is conducting complex numerical modeling of these pathologies using data from medical imaging. However, the computation time associated with these models is a barrier to their use in clinical practice.
 

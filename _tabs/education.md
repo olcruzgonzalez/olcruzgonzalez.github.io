@@ -8,7 +8,7 @@ order: 4
 <style>
   .container {
     display: flex;
-    width: 140%; /* Ensures the container fills the width of the page */
+    width: 99%; /* Ensures the container fills the width of the page */
     align-items: left; /* Align items vertically */
     margin-bottom: 20px;
   }

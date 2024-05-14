@@ -7,7 +7,6 @@ title: Postdoctoral Research Associate - Advanced Micromechanical Models.
 
 Among the many existing composite materials, those reinforced with short fibers (e.g. glass or carbon, in a polymer matrix) can be made, for example, by injection or extrusion of reinforced filaments for 3D printing (Figure 1). These fast-growing reinforced filaments can be derived from recycled “long-fibre” composites used extensively in aeronautics and other applications [1].
 
-
 ![Figure1](/assets/img/experience/project_paris.png)
 
 To design parts made of such materials, it is necessary to determine the material's effective behavior, i.e. its macroscopic response when subjected to stresses (thermal, mechanical, etc.) at the part scale, which is much larger than the microstructure scale.  
