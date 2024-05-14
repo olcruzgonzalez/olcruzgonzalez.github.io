@@ -8,7 +8,7 @@ order: 4
 <style>
   .container {
     display: flex;
-    width: 130%; /* Ensures the container fills the width of the page */
+    width: 140%; /* Ensures the container fills the width of the page */
     align-items: left; /* Align items vertically */
     margin-bottom: 20px;
   }
@@ -32,29 +32,44 @@ order: 4
 </style>
 
 <!-- Content -->
-<!-- BSc - Havana, Cuba -->
+
+> **Awards**\\
+> Aix-Marseille University Thesis Award 2022. \\
+> Issued by Aix-Marseille University on April 11th, 2023 in Marseille, France.\\
+> [Click here for more details !](https://www.univ-amu.fr/fr/public/actualites/soiree-scientifique-2022-remise-des-doctorats-honoris-causa-des-prix-de-these)
+{: .prompt-info }
+
+<!-- PhD - Marseille, France -->
 <div class="container">
-  <div class="empty"></div> <!-- Minimal width column for spacing -->
+  <div class="empty"></div>
   <div class="column1_2">
     <p class="date_location">
-      2012 - 2016
-      <br>Havana, Cuba 
+    2018-2021
+    <br>Marseille, France
     </p>
   </div>
   <div class="column1_2">
     <ul>
       <li> 
-        University of Havana. Faculty of Mathematics and Computer Sciences. 
-        <br> Degree: <b>Bachelor of Science (BSc), Mathematics</b>
+        Aix-Marseille University. L’Ecole Doctorale Sciences pour l’Ingénieur : <br> Mécanique, Physique, Micro et Nanoélectronique / ED 353. 
+        <br> Research unit of CNRS: Laboratoire de Mécanique et d’Acoustique (UMR 7031)
+        <br>  Degree: <b>Doctor of Philosophy (PhD), Engineering Sciences in Solid Mechanics</b>. 
+        <br> Research: "Modeling of linear viscoelastic composite materials
+        <br> with hierarchical structure and imperfect interfaces
+        <br> via a three-scale asymptotic homogenization approach." 
+        <a href="http://www.theses.fr/s214525"> 
+          <img src="https://github.com/olcruzgonzalez/olcruzgonzalez.github.io/tree/main/assets/img/external_link.png" alt="External link" width="15"/> 
+        </a>
+        <br> Supervisor: <a href="mailto:lebon@lma.cnrs-mrs.fr"> Frederic Lebon</a>
+	      <br> Co-supervisor: <a href="mailto:reinaldo@matcom.uh.cu"> Reinaldo Rodríguez Ramos</a>
       </li>
     </ul>
   </div>
   <div class="column3">
-    <img src="assets/img/education/UH.png" alt="UH image" width="120">
+    <img src="assets/img/education/LMA.png" alt="LMA image" width="200">
   </div>
-  <div class="empty"></div> <!-- Minimal width column for spacing -->
+  <div class="empty"></div>
 </div>
-
 
 <!-- MSc - Havana, Cuba -->
 <div class="container">
@@ -80,37 +95,28 @@ order: 4
   <div class="empty"></div> <!-- Minimal width column for spacing -->
 </div>
 
-<!-- PhD - Marseille, France -->
+<!-- BSc - Havana, Cuba -->
 <div class="container">
-  <div class="empty"></div>
+  <div class="empty"></div> <!-- Minimal width column for spacing -->
   <div class="column1_2">
     <p class="date_location">
-    2018-2021
-    <br>Marseille, France
+      2012 - 2016
+      <br>Havana, Cuba 
     </p>
   </div>
   <div class="column1_2">
     <ul>
       <li> 
-        Aix-Marseille University. L’Ecole Doctorale Sciences pour l’Ingénieur : <br> Mécanique, Physique, Micro et Nanoélectronique / ED 353. 
-        <br> Research unit of CNRS: Laboratoire de Mécanique et d’Acoustique (UMR 7031)
-        <br>  Degree: <b>Doctor of Philosophy (PhD), Engineering Sciences in Solid Mechanics</b>. 
-        <br> Research: "Modeling of linear viscoelastic composite materials
-        <br> with hierarchical structure and imperfect interfaces
-        <br> via a three-scale asymptotic homogenization approach." <a href="http://www.theses.fr/s214525"> <img src="assets/img/external_link.png" alt="External link" width="15"/> </a>
-        <br> Supervisor: <a href="mailto:lebon@lma.cnrs-mrs.fr"> Frederic Lebon</a>
-	      <br> Co-supervisor: <a href="mailto:reinaldo@matcom.uh.cu"> Reinaldo Rodríguez Ramos</a>
+        University of Havana. Faculty of Mathematics and Computer Sciences. 
+        <br> Degree: <b>Bachelor of Science (BSc), Mathematics</b>
       </li>
     </ul>
   </div>
   <div class="column3">
-    <img src="assets/img/education/LMA.png" alt="LMA image" width="200">
+    <img src="assets/img/education/UH.png" alt="UH image" width="120">
   </div>
-  <div class="empty"></div>
+  <div class="empty"></div> <!-- Minimal width column for spacing -->
 </div>
 
-> **Awards**\\
-> Aix-Marseille University Thesis Award 2022. \\
-> Issued by Aix-Marseille University on April 11th, 2023 in Marseille, France.\\
-> [Click here for more details !](https://www.univ-amu.fr/fr/public/actualites/soiree-scientifique-2022-remise-des-doctorats-honoris-causa-des-prix-de-these)
-{: .prompt-info }
+
+
