@@ -58,7 +58,7 @@ order: 4
         <br> with hierarchical structure and imperfect interfaces
         <br> via a three-scale asymptotic homogenization approach." 
         <a href="https://theses.fr/2021AIXM0552"> 
-          <img src="https://github.com/olcruzgonzalez/olcruzgonzalez.github.io/tree/main/assets/img/external_link.png" alt="External link" width="15"/> 
+          <img src="https://github.com/olcruzgonzalez/olcruzgonzalez.github.io/blob/main/assets/img/external_link.png" alt="External link" width="15"/> 
         </a>
         <br> Supervisor: <a href="mailto:lebon@lma.cnrs-mrs.fr"> Frederic Lebon</a>
 	      <br> Co-supervisor: <a href="mailto:reinaldo@matcom.uh.cu"> Reinaldo Rodríguez Ramos</a>
