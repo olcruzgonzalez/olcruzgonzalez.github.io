@@ -14,15 +14,14 @@ order: 3
   }
   .column1_2 {
     flex-grow: 1; /* Allows each column to grow and fill the space */
-    /* text-align: center; */
     padding: 10px;
   }
   .column3 {
     flex-grow: 1; /* Allows each column to grow and fill the space */
-    text-align: right; */
+    text-align: right; /* Aligns text to the right */
     padding: 10px;
   }
-  .date, .location {
+  .date_location {
     font-weight: bold;
   }
   .empty {

@@ -14,12 +14,11 @@ order: 4
   }
   .column1_2 {
     flex-grow: 1; /* Allows each column to grow and fill the space */
-    /* text-align: center; */
     padding: 10px;
   }
   .column3 {
     flex-grow: 1; /* Allows each column to grow and fill the space */
-    text-align: right; */
+    text-align: right; /* Aligns text to the right */
     padding: 10px;
   }
   .date_location {
@@ -54,12 +53,11 @@ order: 4
         Aix-Marseille University. L’Ecole Doctorale Sciences pour l’Ingénieur : <br> Mécanique, Physique, Micro et Nanoélectronique / ED 353. 
         <br> Research unit of CNRS: Laboratoire de Mécanique et d’Acoustique (UMR 7031)
         <br>  Degree: <b>Doctor of Philosophy (PhD), Engineering Sciences in Solid Mechanics</b>. 
-        <br> Research: "Modeling of linear viscoelastic composite materials
+        <br> <a href="https://theses.fr/2021AIXM0552"> 
+          Thesis: 
+        </a> "Modeling of linear viscoelastic composite materials
         <br> with hierarchical structure and imperfect interfaces
         <br> via a three-scale asymptotic homogenization approach." 
-        <a href="https://theses.fr/2021AIXM0552"> 
-          <img src="https://github.com/olcruzgonzalez/olcruzgonzalez.github.io/blob/main/assets/img/external_link.png" alt="External link" width="15"/> 
-        </a>
         <br> Supervisor: <a href="mailto:lebon@lma.cnrs-mrs.fr"> Frederic Lebon</a>
 	      <br> Co-supervisor: <a href="mailto:reinaldo@matcom.uh.cu"> Reinaldo Rodríguez Ramos</a>
       </li>
