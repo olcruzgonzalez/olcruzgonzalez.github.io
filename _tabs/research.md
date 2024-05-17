@@ -6,6 +6,20 @@ order: 5
 
 <!-- Research -->
 
+### In a nutshell 
+During the last few years, I have gained scientific and research expertise in several fields of **applied mathematics**. In particular, two areas have caught my attention. 
+
+The first is related to the **modeling of composite materials**, which represents one of the motivations
+of my PhD thesis and first postdoctoral work. I exploited the potential of **homogenization methods** and studied the macroscopic effective response of real-world heterogeneous structures. These approaches were not only devoted to analytical solutions but also to numerical implementations by means of Matlab scripts, the finite element software Comsol Multiphysics and an home-made python library for homogenization. As a result, the research work led to publications in high impact journals and the presentation of the results at international conferences as well. 
+
+The second one is related to the use of **Deep Learning methods**. Inspired by the era of big data, new advances in AI/ML represent a powerful tool that allows us to strive for better results in several fields, including Engineering Sciences. The primary goal of the research project in my second postdoctoral position was to employ deep learning techniques to predict the evolution of thoracic aortic pathologies at early stages using fluid flow simulations. During this period I have gained no only research experience in this field, but also industry knowledge.
+
+**Achievements in numbers:**
+- 11 articles 
+- 2 chapters in books
+- 6 conference proceedings
+- 25 conferences, congresses and seminars
+
 ### Articles 
 
 1. **O.L. Cruz-González**, R. Cornaggia, S. Dartois, R. Brenner (**2024**).  *Accounting for spatial distribution in mean-field homogenization of particulate composites*. International Journal of Solids and Structures 294, 112747. 
