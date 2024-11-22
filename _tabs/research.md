@@ -14,7 +14,10 @@ of my PhD thesis and first postdoctoral work. I exploited the potential of **hom
 
 The second one is related to the use of **Deep Learning methods**. Inspired by the era of big data, new advances in AI/ML represent a powerful tool that allows us to strive for better results in several fields, including Engineering Sciences. The primary goal of the research project in my second postdoctoral position was to employ deep learning techniques to predict the evolution of thoracic aortic pathologies at early stages using fluid flow simulations. During this period I have gained no only research experience in this field, but also industry knowledge.
 
-**Achievements in numbers:**
+**Achievements in numbers:** [<img src="/assets/img/research/GoogleScholar1.png" alt="Download link" width="15"/>](https://scholar.google.com/citations?user=SBW8knEAAAAJ\&hl=en)
+	[<img src="/assets/img/research/Researchgate1.png" alt="Download link" width="15"/>](https://www.researchgate.net/profile/Oscar_Luis_Cruz_Gonzalez)
+   [<img src="/assets/img/research/HAL.png" alt="Download link" width="15"/>](https://hal.science/search/index/?qa%5Bidentifiers_id%5D%5B%5D=oscar-luis-cruz-gonzalez)
+[<img src="/assets/img/research/ORCID1.png" alt="Download link" width="15"/>](https://orcid.org/0000-0002-6739-9429)
 - 11 articles 
 - 2 chapters in books
 - 6 conference proceedings
