@@ -1,0 +1,71 @@
+---
+layout: page
+icon: "fa-solid fa-book-open"
+order: 7
+---
+
+<!-- name
+archives.md
+content
+---
+layout: archives
+icon: fas fa-archive
+order: 8
+--- -->
+
+<title>Horizontal Navigation</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet"> <!-- Font Awesome -->
+    <style>
+        .horizontal-list {
+            display: flex;
+            justify-content: center;
+            gap: 30px; /* Increased space between items */
+            padding: 0;
+            margin: 20px 0;
+            list-style: none;
+        }
+
+        .horizontal-list-item {
+            font-size: 1.5rem; /* Increased font size */
+        }
+
+        .horizontal-list-item a {
+            text-decoration: none;
+            color: #333;
+            display: flex;
+            align-items: center;
+            padding: 10px 15px; /* Add padding around each link */
+            border-radius: 8px; /* Optional: rounded corners for a button-like feel */
+            transition: transform 0.2s, color 0.2s; /* Add a smooth hover effect */
+        }
+
+        .horizontal-list-item a:hover {
+            color: #007bff;
+            transform: scale(1.1); /* Slightly enlarge on hover */
+        }
+
+        .horizontal-list-item i {
+            margin-right: 10px; /* Space between icon and text */
+            font-size: 2rem; /* Larger icon size */
+        }
+    </style>
+
+<nav>
+  <ul class="horizontal-list">
+      <li class="horizontal-list-item">
+          <a href="/archives" aria-label="Archives">
+              <i class="fas fa-archive" aria-hidden="true"></i> Archives
+          </a>
+      </li>
+      <li class="horizontal-list-item">
+          <a href="/categories" aria-label="Categories">
+              <i class="fas fa-stream" aria-hidden="true"></i> Categories
+          </a>
+      </li>
+      <li class="horizontal-list-item">
+          <a href="/tags" aria-label="Tags">
+              <i class="fas fa-tags" aria-hidden="true"></i> Tags
+          </a>
+      </li>
+  </ul>
+</nav>

@@ -6,6 +6,7 @@ description: Meet the Approach
 toc: true
 comments: true
 pin: false
+hidden: true
 
 image:
   path: assets/img/posts/meet_the_approach/pi-deeponet/welcome_deeponet.png
