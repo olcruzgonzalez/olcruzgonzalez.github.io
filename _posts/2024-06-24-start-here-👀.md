@@ -20,6 +20,25 @@ mermaid: true
 
 My name is Oscar, and I’m thrilled to welcome you to my blog—a space where I’ll share my passion for [Scientific ML](https://sites.brown.edu/bergen-lab/research/what-is-sciml/) and much more. 
 
+<!-- Hi there! This space is a fusion of my professional journey and personal reflections.
+
+Here, you’ll find:
+
+Portfolio: A showcase of my projects, skills, and creative ventures.
+Blog: A collection of ideas, insights, and stories about [mention blog topics/themes, e.g., design, technology, creativity].
+Whether you're exploring my work or diving into the blog, I hope you leave inspired and informed.
+
+Feel free to browse, comment, or get in touch. Let’s connect! -->
+
+
+<section style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
+  <h1 style="font-size: 24px; margin-bottom: -20px;">👈👈 Check Portfolio in the Tabs </h1>
+  
+
+</section>
+
+
+
 ## What This Blog is About ?
 
 As a researcher, much of [my work](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en) revolves around solving complex problems and publishing the results in academic journals. But along the way, I often explore smaller ideas, test use cases, or discover insights that don’t make it into formal publications.
