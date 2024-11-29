@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: pi-deeponet
-categories: problem_solution
+categories: SciML Problem-Solution
 description: Problem-Solution
 toc: true
 comments: true
