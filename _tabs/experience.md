@@ -1,8 +1,12 @@
 ---
+title: Experience
 layout: page
 icon: fa-solid fa-briefcase
 order: 3
 link_postdoc_marseille: /documentation/postdoc_marseille_info
+
+math: true
+mermaid: true
 ---
 
 <!-- Style -->
@@ -87,3 +91,15 @@ link_postdoc_marseille: /documentation/postdoc_marseille_info
   </div>
   <div class="empty"></div>
 </div>
+
+
+```mermaid
+ gantt
+ dateFormat  YYYY-MM-DD
+  title  Professional background
+  ... :done, aa, 2021-01-01, 2021-01-01
+  PostDoc - Sorbonne Uni. :done, a, 2021-11-15, 2022-11-14
+  Skill Development :done, a, 2022-11-15, 2023-08-01
+  PostDoc - Aix-Marseille Uni. :done, b, 2023-08-03, 2025-05-31
+  ... :done, aa, 2026-01-01, 2026-01-01
+```

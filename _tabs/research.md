@@ -1,12 +1,12 @@
 ---
+title: Research
 layout: page
 icon: fa-solid fa-book
 order: 5
 ---
 
-<!-- Research -->
-
 ### In a nutshell 
+
 During the last few years, I have gained scientific and research expertise in several fields of **applied mathematics**. In particular, two areas have caught my attention. 
 
 The first is related to the **modeling of composite materials**, which represents one of the motivations

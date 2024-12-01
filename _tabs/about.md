@@ -1,11 +1,12 @@
 ---
-# the default layout is 'page'
+title: About
+layout: page
 icon: fas fa-info-circle
 order: 2
+
+math: true
+mermaid: true
 ---
-<!-- > Website under construction.
-{: .prompt-warning } -->
-<!-- Download full CV -->
 
 I am a **Mathematician** with a five-year research career, beginning with a **PhD in Engineering Sciences** and continuing through **two postdoctoral positions** in France. This journey has contributed to improve my ability to formulate a research problem, integrate existing knowledge and strive to find solutions.
 
@@ -13,14 +14,15 @@ Parallel to my research endeavors, I have continually found myself expanding the
 
 In recent projects, I have directly applied deep learning techniques, e.g. classical end-to-end approaches, **Physics-Informed Neural Networks (PINNs)** and **Neural Operators (PI-DeepONet)**, to solve Navier-Stokes equations with huge datasets of simulations resulting from the field of Fluid Mechanics. The goal was to assist/improve and/or even replace traditional methods of CFD calculations to predict the evolution of thoracic aortic pathologies at an early stage.
 
-**Topics of interest**
-- Scientific Machine Learning 
-- Deep Learning 
-- AI for Engineering 
-- Data science 
-- MLOps 
+### Topics of interest
+
+- Scientific Machine Learning
+- Deep Learning
+- AI for Engineering
+- Data science
+- MLOps
 - LLMs
-- Micro-Mechanical models 
+- Micro-Mechanical models
 - Modeling of biological and bio-inspired materials
 
 *Please, do not hesitate to contact me. I am looking forward to discuss how my experience, skills and enthusiasm might align with your team's needs (Take a look at [<img src="/assets/img/research/Linkedln1.png" alt="Download link" width="15"/>](https://www.linkedin.com/in/oscar-luis-cruz-gonzalez/) - Download Full CV [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://drive.google.com/file/d/1abEcCGYVw5u0E-calh0DshGG2M-dsoVj/view?usp=drive_link*)).

@@ -1,8 +1,13 @@
 ---
+title: Education
 layout: page
 icon: fa-solid fa-user-graduate
 order: 4
+
+math: true
+mermaid: true
 ---
+
 
 <!-- Style -->
 <style>
@@ -37,6 +42,7 @@ order: 4
 > Issued by Aix-Marseille University on April 11th, 2023 in Marseille, France.\\
 > [Click here for more details !](https://www.univ-amu.fr/fr/public/actualites/soiree-scientifique-2022-remise-des-doctorats-honoris-causa-des-prix-de-these)
 {: .prompt-info }
+
 
 <!-- PhD - Marseille, France -->
 <div class="container">
@@ -117,4 +123,14 @@ order: 4
 </div>
 
 
+```mermaid
+ gantt
+ dateFormat  YYYY-MM-DD
+  title  Educational background
+  ... :done, aa, 2012-01-01, 2012-01-01
+  BSc - Mathematics :done, a, 2012-09-01, 2016-07-04
+  MSc - Mathematics :done, b, 2016-09-01, 2018-07-06
+  PhD - Engineering Sciences :done, c, 2018-10-01, 2021-09-30
+  ... :done, aa, 2022-01-01, 2022-01-01
+```
 
