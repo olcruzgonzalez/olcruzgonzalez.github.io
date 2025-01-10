@@ -21,6 +21,20 @@ mermaid: true
   > [Institute Jean le Rond d'Alembert](https://www.dalembert.upmc.fr/ijlrda/) (UMR7190, MISES team).\
   > [Full description ...](/experience-full-description/postdoc-paris-2021-2022)
 
+- **2018-2021** ![Image](/assets/img/experience/LMA.png){: width="160" height="100" .w-25 .right}
+  > Research PhD Student: **Micromechanical Models**. \
+  > Aix-Marseille University, ED353. Marseille, France.\
+  > [LMA](https://laboratoire-mecanique-acoustique.fr/) (UMR7031, Materials and Structures team).\
+  <!-- > [Full description ...](/experience-full-description/phd-marseille-2018-2021) -->
+
+- **2016-2018** ![Image](/assets/img/experience/umcc.png){: width="160" height="100" .w-25 .right}
+  > Lecturer: **Mathematics**. \
+  > Mathematics Department, Faculty of Pedagogical Sciences. University of Matanzas. Matanzas, Cuba.\
+  > Description:
+  > - Lectures on Probability and Statistics, Calculus I, II and Numeric Methods.
+	> - Development of skills in teaching methods and math education.
+  <!-- > [Full description ...](/experience-full-description/lecturer-cuba-2016-2018) -->
+
 <br><br>
 
 ```mermaid
@@ -29,11 +43,15 @@ mermaid: true
     dateFormat  YYYY-MM-DD
     axisFormat %Y
   section Start
-    ... :milestone, aa, 2021-11-01, 2021-11-01
+    ... :milestone, aa, 2016-09-01, 2016-09-01
+  section Lecturer
+    Matanzas Uni. :done, a, 2016-09-01, 2018-08-01
+  section PhD
+    Aix-Marseille Uni. :done, a, 2018-09-01, 2021-10-01
   section Postdoc 1
-    Sorbonne Uni. :done, a, 2021-11-15, 2022-11-14
+    Sorbonne :done, a, 2021-11-01, 2022-11-01
   section Skill Development
-    SD :done, a, 2022-11-15, 2023-08-01
+    SD :done, a, 2022-12-01, 2023-08-01
   section Postdoc 2
     Aix-Marseille Uni. :done, b, 2023-08-03, 2025-05-31
   section End

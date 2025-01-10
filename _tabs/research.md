@@ -12,14 +12,17 @@ During the last few years, I have gained scientific and research expertise in se
 The first is related to the **modeling of composite materials**, which represents one of the motivations
 of my PhD thesis and first postdoctoral work. I exploited the potential of **homogenization methods** and studied the macroscopic effective response of real-world heterogeneous structures. These approaches were not only devoted to analytical solutions but also to numerical implementations by means of Matlab scripts, the finite element software Comsol Multiphysics and an home-made python library for homogenization. As a result, the research work led to publications in high impact journals and the presentation of the results at international conferences as well.
 
-The second one is related to the use of **Deep Learning methods**. Inspired by the era of big data, new advances in AI/ML represent a powerful tool that allows us to strive for better results in several fields, including Engineering Sciences. The primary goal of the research project in my second postdoctoral position was to employ deep learning techniques to predict the evolution of thoracic aortic pathologies at early stages using fluid flow simulations. During this period I have gained no only research experience in this field, but also industry knowledge.
+The second area of focus is the emerging discipline of **Scientific Machine Learning (SciML)**. Inspired by the era of big data, recent advances in AI/ML provide powerful tools that allow us to achieve better results in various fields, including Physics and Engineering Sciences. The primary goal of this second postdoctoral position—my current research project—is to employ SciML techniques to predict the early-stage evolution of thoracic aortic pathologies using CFD simulations. During this period, I have gained not only research experience in this field but also industry knowledge.
 
 **Achievements in numbers:** [<img src="/assets/img/research/GoogleScholar1.png" alt="Download link" width="15"/>](https://scholar.google.com/citations?user=SBW8knEAAAAJ\&hl=en) [<img src="/assets/img/research/Researchgate1.png" alt="Download link" width="15"/>](https://www.researchgate.net/profile/Oscar_Luis_Cruz_Gonzalez) [<img src="/assets/img/research/HAL.png" alt="Download link" width="15"/>](https://hal.science/search/index/?qa%5Bidentifiers_id%5D%5B%5D=oscar-luis-cruz-gonzalez) [<img src="/assets/img/research/ORCID1.png" alt="Download link" width="15"/>](https://orcid.org/0000-0002-6739-9429)
 
-- 11 articles
-- 2 chapters in books
-- 6 conference proceedings
-- 25 conferences, congresses and seminars
+- 11 articles, 2 chapters in books, 6 conference proceedings
+- 30+ events: conferences, congresses, symposiums, workshops & seminars.
+
+### Preprints
+
+**O.L. Cruz-González**, V. Deplano, B. Ghattas.  *Enhanced Vascular Flow Simulations in Aortic Aneurysm via Physics-Informed Neural
+Networks and DeepONets*. *Submitted* to Computer Methods in Applied Mechanics and Engineering.
 
 ### Articles
 
@@ -105,98 +108,109 @@ The second one is related to the use of **Deep Learning methods**. Inspired by t
 <!-- Author's rights -->
 {: reversed="reversed"}
 
-### Conferences, congresses and seminars
+### Conferences | Congresses | Symposiums | Workshops | Seminars
 
 #### 2024
 
+- **(Seminar)** Presentation at the ML Group IRPHE. **December 06, 2024**. Marseille, France. Speaker: **O.L. Cruz González**. *Introduction to (PI-)DeepONets. Applications in Vascular Flow Simulations*. Authors:  Oscar L. Cruz González, Valérie Deplano, Badih Ghattas. [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](\href{https://irphe.univ-amu.fr/?check_logged_in=1})
+
+- **(Workshop)** AI and Physical Sciences @AMU. **November 12, 2024**. 	Marseille, France. Speaker: **O.L Cruz-González**. *On Physics-Informed Neural Networks and DeepONet for Vascular Flow Simulations in Aortic Aneurysms*. Authors:  Oscar L. Cruz González, Valérie Deplano, Badih Ghattas.	[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://ai-physicalsciences.lis-lab.fr/)
+	
+- **(Conference)**  European Mechanics of Materials Conferences - EMMC 19. **May 29-31, 2024**. Madrid, Spain. Speaker: Rémi Cornaggia. ID:270 - *Accounting for spatial distribution in mean-field homogenization of particulate composites*. Authors:  **Oscar Luis Cruz-González**, Rémi Cornaggia, Sophie Dartois and Renald Brenner. [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://emmc19.org/)
+	
+- **(Workshop)** GdR I-GAIA - Physics Informed Learning.  **March 14, 2024**. 	Arts et Métiers Paris, France. Program	[<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://gdr.igaia.cnrs.fr/wp-content/uploads/2024/03/I-GAIA_PROGRAMME_14_mars_2024_avec_enregistrements.pdf) 
+
 #### 2023
 
-- Seminar at the Basque Center for Applied Mathematics. **December, 13th, 2023**. Speaker: Reinaldo Rodr\'iguez-Ramo. *Multiscale homogenization of viscoelastic composite materials. Combined approach based on deep neural networks*. Authors:  R. Rodríguez-Ramos, **Oscar L. Cruz-González**, F. Lebon. Bilbao. [<img scr="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.bcamath.org/en/news-events/events/multiscale-homogenization-viscoelastic-composite-materials-combined-approach)
+- **(Seminar)** Presentation at the Basque Center for Applied Mathematics. **December, 13th, 2023**. Speaker: Reinaldo Rodríguez-Ramo. *Multiscale homogenization of viscoelastic composite materials. Combined approach based on deep neural networks*. Authors:  R. Rodríguez-Ramos, **Oscar L. Cruz-González**, F. Lebon. Bilbao. [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.bcamath.org/en/news-events/events/multiscale-homogenization-viscoelastic-composite-materials-combined-approach)
 
-- V Simpósio de Engenharia Metalúrgica e de Materiais - SEMMat. **October, 18th-20th, 2023**. Speaker: Reinaldo Rodr\'iguez-Ramo. *Modelagem matemática e computacional de materiais compósitos (MMCMC)*. Authors:  R. Rodríguez-Ramos, **Oscar L. Cruz-González**, F. Lebon, P. Rodríguez-Bermúdez, J. A. Otero, A. Ramírez-Torres, R. Penta, Y. Espinosa Almeyda e J. Rodríguez-Durán. Universidade Federal Fluminense. 
+- **(Workshop)** GdR I-GAIA : Ingénierie augmentée par la donnée, l’apprentissage et l'IA. **November 27-30, 2023**. ENSAM Paris, France. Program [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://gdr.igaia.cnrs.fr/wp-content/uploads/2023/12/GdR_I-GAIA_week2023.pdf)
+
+- **(Symposium)** V Simpósio de Engenharia Metalúrgica e de Materiais - SEMMat. **October 18-20, 2023**. Speaker: Reinaldo Rodríguez-Ramo. *Modelagem matemática e computacional de materiais compósitos (MMCMC)*. Authors:  R. Rodríguez-Ramos, **Oscar L. Cruz-González**, F. Lebon, P. Rodríguez-Bermúdez, J. A. Otero, A. Ramírez-Torres, R. Penta, Y. Espinosa Almeyda e J. Rodríguez-Durán. Universidade Federal Fluminense. 
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.even3.com.br/v-semmat/)
 
-- Décimo Séptimo Taller de Física de la Materia Condensada y Molecular. **June, 26th-28th, 2023**. Speaker: Reinaldo Rodr\'iguez-Ramo. *Imperfect interfaces in viscoelastic composite materials. Authors:  R. Rodríguez-Ramos, *Oscar L. Cruz-González*, F. Lebon, Y. Espinosa-Almeyda, H. Camacho-Montes, P. Rodríguez-Bermúdez, José A. Otero. Universidad Autónoma del Estado de Morelos. 
+- **(Workshop)** Décimo Séptimo Taller de Física de la Materia Condensada y Molecular. **June 26-28, 2023**. Speaker: Reinaldo Rodríguez-Ramo. *Imperfect interfaces in viscoelastic composite materials*. Authors:  R. Rodríguez-Ramos, **Oscar L. Cruz-González**, F. Lebon, Y. Espinosa-Almeyda, H. Camacho-Montes, P. Rodríguez-Bermúdez, José A. Otero. Universidad Autónoma del Estado de Morelos. 
 <!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://www.fc.uaem.mx/~tallerfmcm/#:~:text=El%20D%C3%A9cimo%20S%C3%A9ptimo%20(XVII)%20Taller,de%20pl%C3%A1ticas%20como%20de%20carteles.) -->
 
 #### 2022
 
-- Seminar Team MISES, Institut Jean Le Rond d’Alembert, Sorbonne University. **September 13th, 2022**. Speaker: **Oscar L. Cruz González**. *Characterizing short-fiber composites using advanced micro-mechanical models*. Authors:  Oscar L. Cruz-González, Rémi Cornaggia, Sophie Dartois, Renald Brenner. 
+- **(Workshop)** fft-workshop-22 : Introduction to FFT-based numerical methods for the homogenization of random materials. 	**March 14-18, 2022**. Champs-sur-Marne, Paris, France.[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://fft-workshop-22.sciencesconf.org/) 
 
-- 9th Metropolitan Congress on Numerical Modeling and Simulation. **May, 4th-6th, 2022**. Speaker: Reinaldo Rodríguez-Ramo. *Study of imperfect interfaces in viscoelastic composite materials*. Authors:  Oscar L. Cruz-González, Reinaldo Rodr\'iguez-Ramos, Frederic Lebon. 
-[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://sites.google.com/site/ursulaiturraran/events/9o-congreso-metropolitano-de-modelado-y-simulaci%C3%B3n-num%C3%A9rica)
+- **(Seminar)** Team MISES, Institut Jean Le Rond d’Alembert, Sorbonne University. **September 13, 2022**. Speaker: **Oscar L. Cruz González**. *Characterizing short-fiber composites using advanced micro-mechanical models*. Authors:  Oscar L. Cruz-González, Rémi Cornaggia, Sophie Dartois, Renald Brenner. 
+
+- **(Congress)** 9th Metropolitan Congress on Numerical Modeling and Simulation. **May 4-6, 2022**. Speaker: Reinaldo Rodríguez-Ramo. *Study of imperfect interfaces in viscoelastic composite materials*. Authors:  Oscar L. Cruz-González, Reinaldo Rodríguez-Ramos, Frederic Lebon. [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://sites.google.com/site/ursulaiturraran/events/9o-congreso-metropolitano-de-modelado-y-simulaci%C3%B3n-num%C3%A9rica)
 
 #### 2021
 
-- Séminaire Jeunes Chercheurs. **July 13, 2021**. Laboratoire de Mécanique et d'Acoustique-LMA, Marseille, France. Speaker: **O.L. Cruz-González**. *A hierarchical asymptotic homogenization approach for the analysis of the effective mechanical behavior of viscoelastic composite materials*. Authors: Oscar L. Cruz-González, Reinaldo Rodr\'iguez-Ramos, Frederic Lebon. 
+- **(Seminar)** Séminaire Jeunes Chercheurs. **July 13, 2021**. Laboratoire de Mécanique et d'Acoustique-LMA, Marseille, France. Speaker: **O.L. Cruz-González**. *A hierarchical asymptotic homogenization approach for the analysis of the effective mechanical behavior of viscoelastic composite materials*. Authors: Oscar L. Cruz-González, Reinaldo Rodríguez-Ramos, Frederic Lebon. 
 <!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://www.lma.cnrs-mrs.fr/spip.php?article1005&lang=fr) -->
 
-- Workshop MISTRAL: Homogenization methods. First internal workshop of the joint laboratory. ** June 9, 2021**. IUT d’Aix-en-Provence Amphi Est, Marseille, France. Speaker: **O.L. Cruz-González**. *Semi-analytical approach for the homogenization of viscoelastic composite materials. Authors: Oscar L. Cruz-González, Reinaldo Rodr\'iguez-Ramos, Frederic Lebon. 
+- **(Workshop)** MISTRAL: Homogenization methods. First internal workshop of the joint laboratory. **June 9, 2021**. IUT d’Aix-en-Provence Amphi Est, Marseille, France. Speaker: **O.L. Cruz-González**. *Semi-analytical approach for the homogenization of viscoelastic composite materials*. Authors: Oscar L. Cruz-González, Reinaldo Rodríguez-Ramos, Frederic Lebon. 
 <!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://soac.eesc.usp.br/index.php/bccm/5bccm) -->
 
-- ICIRASTE'2021. **June, 5-6, 2021**. Speaker: **O.L. Cruz-González**. \textit{Evaluation of the effective viscoelastic properties of short fibers reinforced composites}.  Authors: Oscar L. Cruz-González, Reinaldo Rodr\'iguez-Ramos, Frederic Lebon. 
+- **(Conference)** ICIRASTE'2021. **June 5-6, 2021**. Speaker: **O.L. Cruz-González**. \textit{Evaluation of the effective viscoelastic properties of short fibers reinforced composites}.  Authors: Oscar L. Cruz-González, Reinaldo Rodríguez-Ramos, Frederic Lebon. 
 <!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://www.issatkas.rnu.tn/fra/pages/293/ICIRASTE-2021-conference?fbclid=IwAR1soZLrxx2WUN0Iy9qzNSHD2j1aJpRbywXZTow5xtkOzhKKGJYMyWmmfps) -->
 
-- SIAM Conference on Mathematical Aspects of Materials Science-MS 21. Minisymposium "Multi-scale modelling in Biomechanic" (MS67). **May, 17-27, 2021**. Virtual. Speaker: **O.L. Cruz-González**. *Multi-scale Homogenization of Hierarchical Viscoelastic Composites*. Authors: Oscar L. Cruz-González, R. Rodríguez-Ramos,  A. Ramírez-Torres, R. Penta, F. Lebon.  
-[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://wp.bcamath.org/siamms21/)
+- **(Conference)** SIAM Conference on Mathematical Aspects of Materials Science-MS 21. Minisymposium "Multi-scale modelling in Biomechanic" (MS67). **May 17-27, 2021**. Virtual. Speaker: **O.L. Cruz-González**. *Multi-scale Homogenization of Hierarchical Viscoelastic Composites*. Authors: Oscar L. Cruz-González, R. Rodríguez-Ramos,  A. Ramírez-Torres, R. Penta, F. Lebon.  [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://wp.bcamath.org/siamms21/)
 
-- 2nd International Conference on Theoretical, Analytical and Computational Methods for Composite Materials and Composite Structures-ICOMP2021. **March, 5-7, 2021**. Online attendance. Speaker: **O.L. Cruz-González**. *On the Imperfect Interfaces in Viscoelastic Composite Materials*. Authors: Oscar L. Cruz-González, R. Rodríguez-Ramos, F. Lebon. 
-[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.icomp2021.com/)
+- **(Conference)** 2nd International Conference on Theoretical, Analytical and Computational Methods for Composite Materials and Composite Structures-ICOMP2021. **March 5-7, 2021**. Online attendance. Speaker: **O.L. Cruz-González**. *On the Imperfect Interfaces in Viscoelastic Composite Materials*. Authors: Oscar L. Cruz-González, R. Rodríguez-Ramos, F. Lebon. [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.icomp2021.com/)
 
-- 5th Brazilian Conference on Composite Materials. **January, 18th-22nd, 2021**. Keynotes: Prof. Reinaldo Rodriguez Ramos. *A semi-analytical approach to describe the effective behavior of viscoelastic composites*. Authors: R. Rodríguez-Ramos, **Oscar L. Cruz-González**, J. A. Otero, F. Lebon. Collaborators: A. Ramírez-Torres, R. Penta. 
+- **(Conference)** 5th Brazilian Conference on Composite Materials. **January 18-22, 2021**. 
+
+   - Keynotes: Prof. Reinaldo Rodriguez Ramos. *A semi-analytical approach to describe the effective behavior of viscoelastic composites*. Authors: R. Rodríguez-Ramos, **Oscar L. Cruz-González**, J. A. Otero, F. Lebon. Collaborators: A. Ramírez-Torres, R. Penta. 
 <!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://soac.eesc.usp.br/index.php/bccm/5bccm) -->
 
-- 5th Brazilian Conference on Composite Materials. **January, 18th-22nd, 2021**. Speaker: **O.L. Cruz-González**. *Overall viscoelastic properties of fiber-reinforced hierarchical composites*. Authors:  Oscar L. Cruz-González, Reinaldo Rodr\'iguez-Ramos, Frederic Lebon. 
+   - Speaker: **O.L. Cruz-González**. *Overall viscoelastic properties of fiber-reinforced hierarchical composites*. Authors:  Oscar L. Cruz-González, Reinaldo Rodríguez-Ramos, Frederic Lebon. 
 <!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://soac.eesc.usp.br/index.php/bccm/5bccm) -->
 
 #### 2020
 
-- Applied Mathematics online seminar series programmed by the School of Mathematics
+- **(Seminar)** Applied Mathematics online seminar series programmed by the School of Mathematics
 and Statistics from University of Glasgow. **October 15, 2020**. Speaker: Prof. Reinaldo Rodríguez Ramos. *Overall properties of linear viscoelastic composites*. Authors: R. Rodríguez-Ramos, **Oscar L. Cruz-González**, J.A. Otero, F. Lebon.
 
-- Seminario de Investigación de la Escuela de Ingeniería y Ciencias programmed by the Instituto
+- **(Seminar)** Seminario de Investigación de la Escuela de Ingeniería y Ciencias programmed by the Instituto
 Tecnológico y de Estudios Superiores de Monterrey. **October, 2020**. Puebla, Mexico. Speaker: Prof. Reinaldo Rodríguez Ramos. *Cálculo de propiedades efectivas de materiales compuestos viscoelásticos*. Authors: R. Rodríguez-Ramos, **Oscar L. Cruz-González**, J.A. Otero,
 F. Lebon, A. Ramírez-Torres, R. Penta.
 
-- Journée des Doctorants du Laboratoire de Mécanique et d'Acoustique. **November 26, 2020**. Speaker: **Oscar L. Cruz-Gonz\'alez**. Marseille, France.
+- **(Symposium)** Journée des Doctorants du Laboratoire de Mécanique et d'Acoustique. **November 26, 2020**. Speaker: **Oscar L. Cruz-González**. Marseille, France.
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://jd-lma-2020.sciencesconf.org/)
 
-- International Seminar of Mathematical Modeling programmed by the Institute of Applied Mathematics and Systems (IIMAS), from Universidad Nacional Autónoma de México with the collaboration of Instituto
-Tecnológico y de Estudios Superiores de Monterrey. **September 30th, 2020**. Speaker: **Oscar L. Cruz González**. *Homogenization of viscoelastic composites*. Authors:  Oscar L. Cruz-González, Reinaldo Rodr\'iguez-Ramos, Frederic Lebon. 
+- **(Seminar)** International Seminar of Mathematical Modeling programmed by the Institute of Applied Mathematics and Systems (IIMAS), from Universidad Nacional Autónoma de México with the collaboration of Instituto
+Tecnológico y de Estudios Superiores de Monterrey. **September 30, 2020**. Speaker: **Oscar L. Cruz González**. *Homogenization of viscoelastic composites*. Authors:  Oscar L. Cruz-González, Reinaldo Rodríguez-Ramos, Frederic Lebon. 
 
 #### 2019
 
-- Presentation at the Institute of Mechanics of Otto von Guericke University Magdeburg. Speaker: Prof. Reinaldo Rodríguez Ramos (Faculty of Mathematics and Computer Science, University of Havana). \textit{Prediction of macroscopic viscoelastic properties in heterogeneous media. Applications}. Authors: R. Rodr\'iguez-Ramos, **Oscar L. Cruz-Gonz\'alez**, F. Lebon.  **December 11, 2019**. Contact person: Dr. Harald Berger. 
+- **(Seminar)** Presentation at the Institute of Mechanics of Otto von Guericke University Magdeburg. Speaker: Prof. Reinaldo Rodríguez Ramos (Faculty of Mathematics and Computer Science, University of Havana). \textit{Prediction of macroscopic viscoelastic properties in heterogeneous media. Applications}. Authors: R. Rodríguez-Ramos, **Oscar L. Cruz-González**, F. Lebon.  **December 11, 2019**. Contact person: Dr. Harald Berger. 
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.ifme.ovgu.de/)
 
-- Presentation at Karlsruhe Institute of Technology (KIT). Speaker: Prof. Reinaldo Rodríguez Ramos (Faculty of Mathematics and Computer Science, University of Havana). *Three scale asymptotic homogenization method for viscoelastic heterogeneous media. Applications*. Authors: R. Rodr\'iguez-Ramos, **Oscar L. Cruz-Gonz\'alez**, F. Lebon.  **December 4, 2019**. Contact person: Thomas B\"ohlke (Speaker).  
+- **(Seminar)** Presentation at Karlsruhe Institute of Technology (KIT). Speaker: Prof. Reinaldo Rodríguez Ramos (Faculty of Mathematics and Computer Science, University of Havana). *Three scale asymptotic homogenization method for viscoelastic heterogeneous media. Applications*. Authors: R. Rodríguez-Ramos, **Oscar L. Cruz-González**, F. Lebon.  **December 4, 2019**. Contact person: Thomas Böhlke (Speaker).  
 <!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://www.grk2078.kit.edu/) -->
 
-- Journée des Doctorants du Laboratoire de Mécanique et d'Acoustique. **December 4, 2019**. Speaker: **Oscar L. Cruz-Gonz\'alez**. Marseille, France.
+- **(Symposium)** Journée des Doctorants du Laboratoire de Mécanique et d'Acoustique. **December 4, 2019**. Speaker: **Oscar L. Cruz-González**. Marseille, France.
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://jd-lma-2019.sciencesconf.org/)
 
-- JNC 21: Journ\'ees Nationales sur les Composites. **July 1-3, 2019**. Bordeaux, France. Poster presentation: **Oscar L. Cruz-Gonz\'alez**. 
+- **(Conference)** JNC 21: Journées Nationales sur les Composites. **July 1-3, 2019**. Bordeaux, France. Poster presentation: **Oscar L. Cruz-González**. 
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://jnc21.sciencesconf.org/236308)
 
 #### 2018
 
-- Journée des Doctorants du Laboratoire de Mécanique et d'Acoustique. **November 28, 2018**. Speaker: **Oscar L. Cruz-Gonz\'alez**. Marseille, France.
+- **(Symposium)** Journée des Doctorants du Laboratoire de Mécanique et d'Acoustique. **November 28, 2018**. Speaker: **Oscar L. Cruz-González**. Marseille, France.
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://jd-lma.sciencesconf.org/)
 
-- 4th International Conference on Mechanics of Composites Universidad Carlos III de Madrid, Spain (Puerta de Toledo Campus). **July 9-12, 2018**.  Plenary Lectures: Prof. Reinaldo Rodriguez Ramos. *Mathematical modeling of non-ageing linear viscoelastic composites with general periodicity*. Authors: R. Rodríguez-Ramos, **Oscar L. Cruz-González**, D. Guinovart-Sanjuán, J. A. Otero, J. Bravo-Castillero, R.	Guinovart-Díaz, S. Dumont, F. Lebon, F.J. Sabina. 
+- **(Conference)** 4th International Conference on Mechanics of Composites Universidad Carlos III de Madrid, Spain (Puerta de Toledo Campus). **July 9-12, 2018**.  Plenary Lectures: Prof. Reinaldo Rodriguez Ramos. *Mathematical modeling of non-ageing linear viscoelastic composites with general periodicity*. Authors: R. Rodríguez-Ramos, **Oscar L. Cruz-González**, D. Guinovart-Sanjuán, J. A. Otero, J. Bravo-Castillero, R.	Guinovart-Díaz, S. Dumont, F. Lebon, F.J. Sabina. 
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://hal.archives-ouvertes.fr/hal-02335772)
 
-- Seminar of Scientific Initiation programmed by the Department of Mathematics and Statistics of the National University of Colombia Sede Manizales. **March 5, 2018**. Speakers: Prof. Reinaldo Rodríguez Ramos and **Oscar L. Cruz González**. *Effective properties of non-aging quasi-periodic, linear viscoelastic composites. Examples*.
+- **(Seminar)** Seminar of Scientific Initiation programmed by the Department of Mathematics and Statistics of the National University of Colombia Sede Manizales. **March 5, 2018**. Speakers: Prof. Reinaldo Rodríguez Ramos and **Oscar L. Cruz González**. *Effective properties of non-aging quasi-periodic, linear viscoelastic composites. Examples*.
 
 #### 2017
 
-- XV International Congress COMPUMAT. Technological University of Havana "José Antonio Echeverría",**November 22-24, 2017**. Havana, Cuba. [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://cujae.edu.cu/)
+- **(Congress)** XV International Congress COMPUMAT. Technological University of Havana "José Antonio Echeverría",**November 22-24, 2017**. Havana, Cuba. [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://cujae.edu.cu/)
 
-- II International Workshop of Didactic and Application of the Basic Science. University of Matanzas. Speaker: **Oscar L. Cruz-González**. *Facial Recognition*. **April, 2017**. Matanzas, Cuba.
+- **(Workshop)** II International Workshop of Didactic and Application of the Basic Science. University of Matanzas. Speaker: **Oscar L. Cruz-González**. *Facial Recognition*. **April, 2017**. Matanzas, Cuba.
 <!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>]({www.umcc.cu) -->
 
 #### 2016
 
-- JCE. Faculty of Mathematics and Computer Sciences. University of Havana. Speaker: Oscar L. Cruz-González. **April, 2016**. Havana, Cuba.
+- **(Symposium)** JCE. Faculty of Mathematics and Computer Sciences. University of Havana. Speaker: Oscar L. Cruz-González. **April, 2016**. Havana, Cuba.
    - *Método de Homogeneización asintótica en una dimensión  para materiales viscoelásticos*. Authors: *Oscar L. Cruz-González*, Reinaldo Rodríguez-Ramos,  Raúl Guinovart-Díaz, Julián Bravo-Castillero. **Mention award**. 
    - *Reconocimiento Facial. Valores y Vectores Propios*. Authors: **Oscar L. Cruz-González**,  Marta L. Baguer Díaz-Romañach. **Outstanding award**.

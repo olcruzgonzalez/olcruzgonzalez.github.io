@@ -7,6 +7,9 @@ title: Postdoctoral Research Associate - AI for Engineering.
 
 Title: Substitution of numerical fluid mechanics models by deep learning models. Applications to vascular pathologies
 
+> Winner of the A*MIDEX 2021 Interdisciplinarity call for projects !
+{: .prompt-info }
+
 ![Figure1](/assets/img/experience/project_marseille.png)
 Left: Geometric model of the thoracic aorta. Right: Velocity field in a longitudinal plane
 

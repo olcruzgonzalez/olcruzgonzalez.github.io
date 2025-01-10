@@ -17,7 +17,7 @@ mermaid: true
 - **2018-2021** ![Image](/assets/img/education/LMA.png){: width="160" height="100" .w-25 .right}
   > **Doctor of Philosophy (PhD)**, Engineering Sciences in Solid Mechanics.\
   > ED 353, Aix-Marseille University. Marseille, France.\
-  > Research unit of CNRS: [LMA](https://laboratoire-mecanique-acoustique.fr/) (UMR 7031).\
+  > Research unit of CNRS: [LMA](https://laboratoire-mecanique-acoustique.fr/) (UMR7031).\
   > [Thesis:](https://theses.fr/2021AIXM0552) "Modeling of linear viscoelastic composite materials with hierarchical structure and imperfect interfaces via a three-scale asymptotic homogenization approach". \
   > Supervisor: [Frederic Lebon](mailto:lebon@lma.cnrs-mrs.fr)\
   > Co-supervisor: [Reinaldo Rodríguez Ramos](mailto:rerora2006@gmail.com)

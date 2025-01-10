@@ -8,11 +8,13 @@ math: true
 mermaid: true
 ---
 
-I am a **Mathematician** with a five-year research career, beginning with a **PhD in Engineering Sciences** and continuing through **two postdoctoral positions** in France. This journey has contributed to improve my ability to formulate a research problem, integrate existing knowledge and strive to find solutions.
+<!-- GENERAL -->
+I am a **Mathematician** with a six-year research career, beginning with a **PhD in Engineering Sciences** and continuing through **two postdoctoral positions** in France. This journey has contributed to improve my ability to formulate research problems, integrate existing knowledge and strive to find solutions.
 
 Parallel to my research endeavors, I have continually found myself expanding the expertise, embracing opportunities to develop new skills that aligned with my growing interest in the field of **AI and technology**. I am interested in driving innovation and solving real-world problems.
 
-In recent projects, I have directly applied deep learning techniques, e.g. classical end-to-end approaches, **Physics-Informed Neural Networks (PINNs)** and **Neural Operators (PI-DeepONet)**, to solve Navier-Stokes equations with huge datasets of simulations resulting from the field of Fluid Mechanics. The goal was to assist/improve and/or even replace traditional methods of CFD calculations to predict the evolution of thoracic aortic pathologies at an early stage.
+<!-- TO UPDATE ! -->
+In my current research project, I am applying **SciML techniques**, e.g. classical end-to-end deep learning approaches, **Physics-Informed Neural Networks (PINNs)** and **Neural Operators (PI-DeepONets)** to solve Navier-Stokes equations. For this purpose, we use huge datasets of CFD simulations. The goal is to predict the evolution of thoracic aortic pathologies at an early stage.
 
 ### Topics of interest
 
