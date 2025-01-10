@@ -112,11 +112,11 @@ Networks and DeepONets*. *Submitted* to Computer Methods in Applied Mechanics an
 
 #### 2024
 
-- **(Seminar)** Presentation at the ML Group IRPHE. **December 06, 2024**. Marseille, France. Speaker: **O.L. Cruz González**. *Introduction to (PI-)DeepONets. Applications in Vascular Flow Simulations*. Authors:  Oscar L. Cruz González, Valérie Deplano, Badih Ghattas. [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](\href{https://irphe.univ-amu.fr/?check_logged_in=1})
+- **(Seminar)** Presentation at the ML Group IRPHE. **December 06, 2024**. Marseille, France. Speaker: **O.L. Cruz González**. *Introduction to (PI-)DeepONets. Applications in Vascular Flow Simulations*. Authors:  Oscar L. Cruz González, Valérie Deplano, Badih Ghattas. [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://irphe.univ-amu.fr/)
 
 - **(Workshop)** AI and Physical Sciences @AMU. **November 12, 2024**. 	Marseille, France. Speaker: **O.L Cruz-González**. *On Physics-Informed Neural Networks and DeepONet for Vascular Flow Simulations in Aortic Aneurysms*. Authors:  Oscar L. Cruz González, Valérie Deplano, Badih Ghattas.	[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://ai-physicalsciences.lis-lab.fr/)
 	
-- **(Conference)**  European Mechanics of Materials Conferences - EMMC 19. **May 29-31, 2024**. Madrid, Spain. Speaker: Rémi Cornaggia. ID:270 - *Accounting for spatial distribution in mean-field homogenization of particulate composites*. Authors:  **Oscar Luis Cruz-González**, Rémi Cornaggia, Sophie Dartois and Renald Brenner. [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://emmc19.org/)
+- **(Conference)**  European Mechanics of Materials Conferences - EMMC 19. **May 29-31, 2024**. Madrid, Spain. Speaker: Rémi Cornaggia. ID:270 - *Accounting for spatial distribution in mean-field homogenization of particulate composites*. Authors:  **Oscar Luis Cruz-González**, Rémi Cornaggia, Sophie Dartois and Renald Brenner. [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://emmc19.org/)
 	
 - **(Workshop)** GdR I-GAIA - Physics Informed Learning.  **March 14, 2024**. 	Arts et Métiers Paris, France. Program	[<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://gdr.igaia.cnrs.fr/wp-content/uploads/2024/03/I-GAIA_PROGRAMME_14_mars_2024_avec_enregistrements.pdf) 
 
