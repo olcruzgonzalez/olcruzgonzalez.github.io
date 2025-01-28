@@ -43,7 +43,7 @@ refactor: true
 
 <!-- Alert Message -->
 <style>
-    .alert-box {
+    .alert-box1 {
         background-color: #FFF5CC; /* Light yellow background */
         /*border: 1px solid #FFCC00;*/ /* Yellow border */
         color: #333; /* Dark text color */
@@ -63,23 +63,46 @@ refactor: true
     }
 </style>
 
-<div class="alert-box">
-    <div class="icon">⚠️</div><!-- Unicode warning sign icon -->
-    <div> Portfolio under construction!</div>
+<style>
+  .alert-box2 {
+    background-color: #E6F3FF;
+    /* Light blue background */
+    color: #333;
+    padding: 5px;
+    margin: 15px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+  }
+
+  .alert-box .icon {
+    margin-right: 10px;
+    font-size: 24px;
+    color: #0066CC;/* Blue color */
+  }
+</style>
+
+<div class="alert-box2">
+  <div class="icon">✅</div><!-- Unicode checkmark icon -->
+  <div> Portfolio up-to-date!</div>
 </div>
 
+<div class="alert-box1">
+    <div class="icon">⚠️</div><!-- Unicode warning sign icon -->
+    <div> Blog under construction!</div>
+</div>
 
-<!-- <section style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
-  <h1 style="font-size: 24px; margin-bottom: -20px;">👈👈 Check Portfolio in the Tabs </h1>
-  
-
-</section> -->
 
 <!-- Welcome Message -->
 <section style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
   <h1 style="font-size: 24px; margin-bottom: 10px;">Welcome to My Portfolio & Blog</h1>
 </section>
 
+<!-- <section style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;"></section>
+  <h1 style="font-size: 24px; margin-bottom: -20px;">👈👈 Check Portfolio in the Tabs </h1>
+</section> -->
 
 <!-- Post Pinned list -->
 <div id="post-list" class="flex-grow-1 px-xl-1">
@@ -196,12 +219,21 @@ refactor: true
 
 👉 [Optional: Add a call-to-action like “Learn More,” “View Project,” or “Read Blog Post,” linking to the detailed announcement or related content.] -->
 
+<!-- <section style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
+  <h1 style="font-size: 24px; margin-bottom: -20px;">👈👈 Check Portfolio in the Tabs </h1>
+</section> -->
+
 <section id="latest-news" style="padding: 10px; border-radius: 0px; margin-top: 80px;margin-bottom: -20px;">
-  <p style="font-size: 1em;  text-align: left;"> Latest News 📢</p>
+  <p style="font-size: 1em;  text-align: left;"> Latest News 📢 (Jan. 2025)</p>
   <!-- <p style="font-size: 1em; color: #444;"> New Post! 🎉</p> -->
     <!-- <h3 style="font-size: 1.5em; color: #444;">Launch Alert: New Design Project Live!</h3> -->
   <p style="font-size: 1em;  line-height: 1.6;">
-       I’m thrilled to unveil my latest post entitled <strong>Pinn</strong>. Please check it out 👇👇👇
+       I’m thrilled to present my latest preprint  
+       
+       <p style="font-size: 1em;  line-height: 1.6;"> </p><strong>O.L. Cruz-González</strong>, V. Deplano, B. Ghattas. <em>Enhanced Vascular Flow Simulations in Aortic Aneurysm via Physics-Informed Neural Networks and DeepONets </em>. Submitted to Computer Methods in Applied Mechanics and Engineering. </p>
+       
+       <!-- Please check it out 👇👇👇 -->
+       <!-- I’m thrilled to unveil my latest post entitled <strong>Pinn</strong>. Please check it out 👇👇👇 -->
       <!-- 📢 I’m thrilled to unveil my latest design project, <strong>[Project Name]</strong>, now live on the Portfolio section.  -->
       <!-- It’s been an exciting journey, and I’d love to hear your thoughts! -->
   </p>

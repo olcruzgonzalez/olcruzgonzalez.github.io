@@ -29,22 +29,13 @@ Whether you're exploring my work or diving into the blog, I hope you leave inspi
 
 Feel free to browse, comment, or get in touch. Let’s connect! -->
 
-
-<section style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
-  <h1 style="font-size: 24px; margin-bottom: -20px;">👈👈 Check Portfolio in the Tabs </h1>
-  
-
-</section>
-
-
-
 ## What This Blog is About ?
 
 As a researcher, much of [my work](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en) revolves around solving complex problems and publishing the results in academic journals. But along the way, I often explore smaller ideas, test use cases, or discover insights that don’t make it into formal publications.
 
 This blog is my space to share those hidden gems, ideas that may not be “journal-worthy” but still offer value, spark curiosity, or inspire new ways of thinking.
 
-So, whether you’re a curious beginner or an experienced professional, my goal is to provide you with insights, tools, and results that serve as a benchmark for furthers developments. 
+So, whether you’re a curious beginner or an experienced professional, my goal is to provide you with insights, tools, and results that serve as a benchmark for furthers developments.
 
 ## What You’ll Find Here ?
 
@@ -68,7 +59,7 @@ I enjoy creating figures using [Inkscape](https://inkscape.org/) to explain comp
 
 Not every idea needs to be groundbreaking to be worth sharing. Sometimes, it’s the smaller, iterative steps that pave the way for larger breakthroughs. I hope this blog will inspire readers to value the journey of experimentation and find new ways to approach challenges in their own work.
 
-## Let’s Connect!
+## Let’s Connect
 
 Feel free to reach me out on [X](https://twitter.com/olcruzgonzalez) to share your thoughts and comments on the post.
 
