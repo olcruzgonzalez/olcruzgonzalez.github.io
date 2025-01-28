@@ -7,6 +7,7 @@ toc: true
 comments: true
 pin: false
 hidden: true
+published: false # true
 
 image:
   path: assets/img/posts/problem_solution/local_problem_1d/welcome_local_problem_1d.png

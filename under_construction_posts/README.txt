@@ -1,1 +1,0 @@
-Once finished, copy to _posts
