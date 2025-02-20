@@ -22,7 +22,7 @@ The second area of focus is the emerging discipline of **Scientific Machine Lear
 ### Preprints
 
 **O.L. Cruz-González**, V. Deplano, B. Ghattas.  *Enhanced Vascular Flow Simulations in Aortic Aneurysm via Physics-Informed Neural
-Networks and DeepONets*. *Submitted* to Computer Methods in Applied Mechanics and Engineering.
+Networks and DeepONets*. *Submitted* to Engineering Applications of Artificial Intelligence.
 
 ### Articles
 
