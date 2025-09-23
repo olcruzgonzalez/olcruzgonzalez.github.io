@@ -9,23 +9,23 @@ mermaid: true
 ---
 
 <!-- GENERAL -->
-I am a **Mathematician** with a six-year research career, beginning with a **PhD in Engineering Sciences** and continuing through **two postdoctoral positions** in France. This journey has contributed to improve my ability to formulate research problems, integrate existing knowledge and strive to find solutions.
+I am a **Mathematician** with a seven-year research career, beginning with a **PhD in Engineering Sciences** and continuing through **several postdoctoral positions**. This journey has contributed to improve my ability to formulate research problems, integrate existing knowledge and strive to find solutions.
 
-Parallel to my research endeavors, I have continually found myself expanding the expertise, embracing opportunities to develop new skills that aligned with my growing interest in the field of **AI and technology**. I am interested in driving innovation and solving real-world problems.
+Parallel to my research endeavors, I have continually found myself expanding this expertise and developing new skills that aligned with my growing interest in the field of **AI and technology**. I am interested in driving innovation and solving real-world problems.
 
 <!-- TO UPDATE ! -->
-In my current research project, I am applying **SciML techniques**, e.g. classical end-to-end deep learning approaches, **Physics-Informed Neural Networks (PINNs)** and **Neural Operators (PI-DeepONets)** to solve Navier-Stokes equations. For this purpose, we use huge datasets of CFD simulations. The goal is to predict the evolution of thoracic aortic pathologies at an early stage.
+In my current research project, I am applying **SciML methods**, e.g. classical end-to-end deep learning approaches, **Physics-Informed Neural Networks (PINNs)** and **Neural Operators (PI-DeepONets)** to solve Navier-Stokes equations. For this purpose, we use huge datasets of CFD simulations that serve as ground truth for the training and testing phase of the models. The goal is to predict the evolution of thoracic aortic pathologies at an early stage.
 
 ### Topics of interest
 
+- Applied Mathematics
 - Scientific Machine Learning (SciML)
-- AI for Physics and Engineering
 - Micromechanics
 - Modeling of biological and bio-inspired materials
-- Deep Learning
+- AI, Machine Learning, Deep Learning
 - MLOps
 
-*Feel free to reach me out. I am looking forward to discuss how my experience, skills and enthusiasm can contribute to your team's success. Connect with me on Linkedin [<img src="/assets/img/about/Linkedln1.png" alt="Download link" width="15"/>](https://www.linkedin.com/in/oscar-luis-cruz-gonzalez/) or download my full CV [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://drive.google.com/file/d/1CXJ_qViMQ87eh48mPHaKDoa3lk7NWGuj/view?usp=drive_link).
+*Feel free to reach me out. I am looking forward to discuss how my experience, skills and motivation can contribute to your team. Connect with me on Linkedin [<img src="/assets/img/about/Linkedln1.png" alt="Download link" width="15"/>](https://www.linkedin.com/in/oscar-luis-cruz-gonzalez/) or download my full CV [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://drive.google.com/file/d/1CXJ_qViMQ87eh48mPHaKDoa3lk7NWGuj/view?usp=drive_link).
 
 <!-- <div style="display: flex; justify-content: space-between; align-items: flex-start;"> -->
 

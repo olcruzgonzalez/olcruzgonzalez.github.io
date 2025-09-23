@@ -31,21 +31,19 @@ mermaid: true
   > **Bachelor of Science (BSc)**, Mathematics.\
   > University of Havana. [MATCOM](https://matcom.uh.cu/). Havana, Cuba.
 
-<br><br>
-
 ```mermaid
   gantt
     title  Educational background
     dateFormat  YYYY-MM-DD
     axisFormat %Y
-  section Start
-    ... :milestone, aa, 2012-09-01, 2012-09-01
-  section BSc
-    Mathematics :done, a, 2012-09-01, 2016-07-04
-  section MSc
-    Mathematics :done, b, 2016-09-01, 2018-07-06
-  section PhD
-    Engineering Sciences :done, c, 2018-10-01, 2021-09-30
   section End
     ... :milestone, aa, 2021-10-01, 2021-10-01
+  section PhD
+    Engineering Sciences :done, c, 2018-10-01, 2021-09-30
+  section MSc
+    Mathematics :done, b, 2016-09-01, 2018-07-06
+  section BSc
+    Mathematics :done, a, 2012-09-01, 2016-07-04
+  section Start
+    ... :milestone, aa, 2012-09-01, 2012-09-01
 ```

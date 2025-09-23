@@ -17,50 +17,34 @@ mermaid: true
 
 ## Hi there! 👋
 
-My name is Oscar, and I’m thrilled to welcome you to my blog—a space where I’ll share my passion for [Scientific ML](https://sites.brown.edu/bergen-lab/research/what-is-sciml/) and much more. 
-
-<!-- Hi there! This space is a fusion of my professional journey and personal reflections.
-
-Here, you’ll find:
-
-Portfolio: A showcase of my projects, skills, and creative ventures.
-Blog: A collection of ideas, insights, and stories about [mention blog topics/themes, e.g., design, technology, creativity].
-Whether you're exploring my work or diving into the blog, I hope you leave inspired and informed.
-
-Feel free to browse, comment, or get in touch. Let’s connect! -->
+My name is Oscar, and I’m thrilled to welcome you to my blog—a space where I’ll share my passion for [Scientific ML](https://sites.brown.edu/bergen-lab/research/what-is-sciml/) and much more.
 
 ## What This Blog is About ?
 
-As a researcher, much of [my work](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en) revolves around solving complex problems and publishing the results in academic journals. But along the way, I often explore smaller ideas, test use cases, or discover insights that don’t make it into formal publications.
+As a researcher, much of [my work](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en) deals with solving scientific problems and publishing the results in academic journals. But along the way, I often explore smaller ideas, test use cases, or discover insights that don’t make it into formal publications. This blog is my space to share those hidden gems.
 
-This blog is my space to share those hidden gems, ideas that may not be “journal-worthy” but still offer value, spark curiosity, or inspire new ways of thinking.
-
-So, whether you’re a curious beginner or an experienced professional, my goal is to provide you with insights, tools, and results that serve as a benchmark for furthers developments.
+Think of it as a living journal of my ML journey. Here, I will share what I am currently working on and the lessons I have learned. My goal is to offer a peek behind the curtain of the research process, hoping to spark curiosity, provide value to the community, and inspire new ways of approaching problems.
 
 ## What You’ll Find Here ?
 
-- **Physics-ML Models**: I will cover some of the state-of-the-art techniques being used in the field, such as Physics-Informed Neural Networks (PINNs), Deep Operator Networks (DeepONets), Fourier Neural Operators (FNOs), Graph Neural Networks (GNNs), and more.
+Posts will be presented in three categories:
 
-- **Simple Use Case Scenarios**: Quick, exploratory tests of ideas that lay the groundwork for more advanced research.
+**1. Meet the Approach**: I will briefly introduce a Scientific ML approach and apply it to a simple use case to illustrate how it works.
 
-- **Practical Applications**: Insights into how these ideas can be useful in real-world scenarios.
+**2. Problem-Solution**: In these posts, I will address a simple but interesting problem, presenting an adapted approach to solve it.
 
-Posts will be presented in three main categories:
+**3. Tutorial:** Step-by-step guides on how to use a particular ML framework and other tools.
 
-**1. Meet the Approach**: I will briefly present a new approach and apply it to solve a simple use case.
-
-**2. Problem-Solution**: In this type of post, I will address a simple but challenging problem, proposing an adapted technique to solve it. The focus will be on explaining the limitations of traditional methods and how the tailored version overcomes these challenges.
-
-**3. Tutorial:** Step-by-step guides on how to use a particular ML framework,  or how go beyond simple scenarios.
-
-I enjoy creating figures using [Inkscape](https://inkscape.org/) to explain complex concepts in a clear and pedagogical way. I hope this also helps!
+All posts include the corresponding code in the [GitHub repository](https://github.com/olcruzgonzalez/). I also enjoy creating figures using [Inkscape](https://inkscape.org/) to explain concepts in a clear and pedagogical way. Don't miss it!
 
 ## Why This Matters?
 
-Not every idea needs to be groundbreaking to be worth sharing. Sometimes, it’s the smaller, iterative steps that pave the way for larger breakthroughs. I hope this blog will inspire readers to value the journey of experimentation and find new ways to approach challenges in their own work.
+I hope this blog will inspire readers to value the journey of experimentation and find new ways to approach challenges in their own work.
 
 ## Let’s Connect
 
-Feel free to reach me out on [X](https://twitter.com/olcruzgonzalez) to share your thoughts and comments on the post.
+So, whether you’re a curious beginner or an experienced professional, feel free to take a look.
 
-Thank you for stopping by, and I look forward to hearing from you !
+You can reach me out on [X](https://twitter.com/olcruzgonzalez) to share your thoughts on the posts.
+
+Thank you for stopping by, and I look forward to hearing from you!

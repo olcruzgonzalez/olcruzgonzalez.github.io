@@ -11,9 +11,9 @@ Among the many existing composite materials, those reinforced with short fibers 
 
 To design parts made of such materials, it is necessary to determine the material's effective behavior, i.e. its macroscopic response when subjected to stresses (thermal, mechanical, etc.) at the part scale, which is much larger than the microstructure scale.  
 
-Mean-field models [2] enable rapid estimation of the effective thermoelastic properties of a composite based on a representative image or statistical description of its microstructure. In particular, the spatial distribution of fibers, resulting from the manufacturing process, can be taken into account thanks to advanced models such as the Ponte-Casteñeda and Willis (PCW) model [4], or the IDD model proposed by [3] and gives a “unified” formulation [2] incorporating other models.
+Mean-field models [2] enable rapid estimation of the effective properties of a composite based on a representative image or statistical description of its microstructure. In particular, the spatial distribution of fibers, resulting from the manufacturing process, can be taken into account thanks to advanced models such as the Ponte-Casteñeda and Willis (PCW) model [4], or the IDD model proposed by [3] and gives a “unified” formulation [2] incorporating other models.
 
-In this context, this project aims to determine the best calibration of these models from an image or statistical descriptors of a microstructure.
+In this context, the project aims to determine the best calibration of these models from an image or statistical descriptors of a microstructure.
 
 [1] A. Rahimizadeh, J. Kalman, K. Fayazbakhsh and L. Lessard. Mechanical and thermal study of 3D printing composite filaments from wind turbine waste, Polymer Composites 42, 2305–2316, 2021
 

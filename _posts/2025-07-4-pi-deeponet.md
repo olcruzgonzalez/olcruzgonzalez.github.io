@@ -7,7 +7,7 @@ toc: true
 comments: true
 pin: false
 hidden: true
-published: false # true
+published: false # true, false
 
 image:
   path: assets/img/posts/meet_the_approach/pi-deeponet/welcome_deeponet.png
