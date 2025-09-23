@@ -2,10 +2,11 @@
 layout: post
 tags: welcome_post
 categories: Welcome_Post
-# description: What This Blog is About?
 toc: true
 comments: true
 pin: true
+hidden: false
+published: true # true, false
 
 image:
   path: assets/img/posts/welcome/welcome.png
