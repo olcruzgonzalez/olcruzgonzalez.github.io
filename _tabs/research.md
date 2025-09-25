@@ -141,7 +141,7 @@ Networks and DeepONets*. *Submitted*.
 - **(Workshop)** XIX Taller de Física de la Materia Condensada y Molecular. **June 23-25, 2025**. Cuernavaca,
 Morelos, México. Speaker: **O.L. Cruz González**. *Deep Learning for Hemodynamics in Aortic Aneurysms*. Authors:  Oscar L. Cruz González, Valérie Deplano, Badih Ghattas. [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://cinc.uaem.mx/programa/)
 
-- **(Seminar)** Internal presentation at AMSE. **May 07, 2025**. Marseille, France. Speaker: **O.L. Cruz González**. *Introduction to (PI-)DeepONets. Applications in Vascular Flow Simulations*. Authors:  Oscar L. Cruz González, Valérie Deplano, Badih Ghattas. 
+- **(Seminar)** Internal presentation at AMSE. **May 07, 2025**. Marseille, France. Speaker: **O.L. Cruz González**. *A Primer on (PI-)DeepONets.  A Case Study in Hemodynamics*. Authors:  Oscar L. Cruz González, Valérie Deplano, Badih Ghattas. 
 
 #### 2024
 
