@@ -29,6 +29,71 @@ refactor: true
   {% assign pinned_size = 0 %}
 {% endif %}
 
+<!-- Alert Message -->
+  <style>
+    .alert-box1 {
+      background-color: #FFF5CC;
+      /* Light yellow background */
+      /*border: 1px solid #FFCC00;*/
+      /* Yellow border */
+      color: #333;
+      /* Dark text color */
+      padding: 5px;
+      margin: 15px;
+      margin-top: 20px;
+      margin-bottom: -20px;
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+    }
+
+    .alert-box .icon {
+      margin-right: 10px;
+      font-size: 24px;
+      color: #FFCC00;
+      /* Yellow color */
+    }
+  </style>
+
+  <style>
+    .alert-box2 {
+      background-color: #E6F3FF;
+      /* Light blue background */
+      color: #333;
+      padding: 5px;
+      margin: 15px;
+      margin-top: 20px;
+      margin-bottom: -20px;
+      border-radius: 5px;
+      display: flex;
+      align-items: center;
+    }
+
+    .alert-box .icon {
+      margin-right: 10px;
+      font-size: 24px;
+      color: #0066CC;
+      /* Blue color */
+    }
+  </style>
+
+  <div class="alert-box2">
+    <div class="icon">✅</div><!-- Unicode checkmark icon -->
+    <div> Portfolio up-to-date!</div>
+  </div>
+
+  <div class="alert-box1">
+    <div class="icon">⚠️</div><!-- Unicode warning sign icon -->
+    <div> Blog under construction!</div>
+  </div>
+
+
+  <!-- Welcome Message -->
+  <section style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
+    <h1 style="font-size: 24px; margin-bottom: 10px;">Welcome to My Portfolio & Blog</h1>
+  </section>
+
+
 <!-- Get normal posts on current page -->
 
 {% assign normal_size = paginator.posts | size | minus: pinned_size %}
@@ -139,3 +204,24 @@ refactor: true
 {% if paginator.total_pages > 1 %}
   {% include post-paginator.html %}
 {% endif %}
+
+<section id="latest-news" style="padding: 10px; border-radius: 0px; margin-top: 80px;margin-bottom: -20px;">
+    <p style="font-size: 1em;  text-align: left;"> Latest News 📢 (Sept. 2025)</p>
+    <p style="font-size: 1em;  line-height: 1.6;">
+      We are presenting our work at SB2025-Marseille: 50th Congress of the Biomechanics Society
+
+    <p style="font-size: 1em;  line-height: 1.6;"> </p><strong>O.L. Cruz-González</strong>, V. Deplano, B. Ghattas.
+    <em>Physics-Informed Deep Learning Surrogates for Aneurysm Blood Flow Simulation</em>.
+    Proceedings of the conference. <a href="https://hal.science/hal-05191728/document">HAL</a>  </p>
+    </p>
+  </section>
+  <!-- <section id="latest-news" style="padding: 10px; border-radius: 0px; margin-top: 80px;margin-bottom: -20px;">
+    <p style="font-size: 1em;  text-align: left;"> Latest News 📢 (Jan. 2025)</p>
+    <p style="font-size: 1em;  line-height: 1.6;">
+      I’m thrilled to present my latest preprint
+
+    <p style="font-size: 1em;  line-height: 1.6;"> </p><strong>O.L. Cruz-González</strong>, V. Deplano, B. Ghattas.
+    <em>Enhanced Vascular Flow Simulations in Aortic Aneurysm via Physics-Informed Neural Networks and DeepONets </em>.
+    Submitted. </p>
+    </p>
+  </section> -->
