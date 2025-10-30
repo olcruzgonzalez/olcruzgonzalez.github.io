@@ -36,3 +36,18 @@ Open source numerical tools.
   > ***This repository will become public once our associated manuscript is accepted for publication.*
   
 ![Image](/assets/img/projects/aaa_steady/Longitudinal.png){: width="600" height="300" .w-50 .center}
+
+### AAA_unsteady
+
+[![Skill](https://img.shields.io/badge/-SciML-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
+[![Skill](https://img.shields.io/badge/-AI4Science-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
+[![Skill](https://img.shields.io/badge/-Pytorch-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
+[![Skill](https://img.shields.io/badge/-PINNs-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
+[![Skill](https://img.shields.io/badge/-PIDeepONets-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
+
+  > This code uses PINNs and PI-DeepONets to predict unsteady blood flow in a 3D Abdominal Aortic Aneurysm (AAA) idealized model.\
+  > It is related to our work on unsteady flow, found at the repository [olcruzgonzalez/AAA_unsteady](https://github.com/olcruzgonzalez/AAA_unsteady)\
+  > ***The code will be made public after peer review and acceptance of our associated manuscript.*
+  
+![Image](/assets/img/projects/aaa_unsteady/MoV.gif){: width="600" height="300" .w-50 .center}
+![Image](/assets/img/projects/aaa_unsteady/Pressure.gif){: width="600" height="300" .w-50 .center}
