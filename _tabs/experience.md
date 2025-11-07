@@ -8,7 +8,12 @@ math: true
 mermaid: true
 ---
 
-- **Jun 2025 - Present** ![Image](/assets/img/experience/AMSE.png){:.w-25 .right}
+- **Oct 2025 - Present** ![Image](/assets/img/experience/aphm.png){:.w-25 .right}
+  > Research Engineer: **Applied AI**. \
+  > Hôpitaux Universitaires de Marseille (AP-HM). Marseille, France. \
+  > [AP-HM](https://fr.ap-hm.fr/).
+
+- **Jun 2025 - Sept 2025** ![Image](/assets/img/experience/AMSE.png){:.w-25 .right}
   > Research Engineer: **AI for Science**. \
   > Aix-Marseille University. Marseille, France. \
   > [AMSE](https://www.amse-aixmarseille.fr/fr) (UMR7316, Econometrics and Statistics team).
@@ -51,7 +56,9 @@ mermaid: true
     dateFormat  YYYY-MM-DD
     axisFormat %Y
   section Nowadays
-    ... :milestone, aa, 2025-10-01, 2025-10-01
+    ... :milestone, aa, 2026-01-01, 2026-01-02
+  section Research Engineer 
+    AP-HM. :done, b, 2025-10-06, 2025-12-31
   section Research Engineer
     Aix-Marseille Uni. :done, b, 2025-06-01, 2025-09-30
   section Postdoc 3
