@@ -8,7 +8,14 @@ math: true
 mermaid: true
 ---
 
-- **Oct 2025 - Present** ![Image](/assets/img/experience/aphm.png){:.w-25 .right}
+- **Jan 2026 - Jan 2028** ![Image](/assets/img/experience/IRPHE.png){:.w-25 .right}
+  > Postdoctoral Research Associate: **AI for Science**. \
+  > Aix-Marseille University. Marseille, France. \
+  > [IRPHE](https://irphe.univ-amu.fr/) (UMR7342, Bio-mechanics team). \
+  > [AMSE](https://www.amse-aixmarseille.fr/fr) (UMR7316, Econometrics and Statistics team).\
+  <!-- > [Full description ...](/experience-full-description/postdoc-marseille-2023-2025) -->
+
+- **Oct 2025 - Dic 2025** ![Image](/assets/img/experience/aphm.png){:.w-25 .right}
   > Research Engineer: **Applied AI**. \
   > Hôpitaux Universitaires de Marseille (AP-HM). Marseille, France. \
   > [AP-HM](https://fr.ap-hm.fr/).
@@ -56,7 +63,9 @@ mermaid: true
     dateFormat  YYYY-MM-DD
     axisFormat %Y
   section Nowadays
-    ... :milestone, aa, 2026-01-01, 2026-01-02
+    ... :milestone, aa, 2028-02-01, 2028-02-02
+    section Postdoc 4
+    Aix-Marseille Uni. :done, b, 2026-01-05, 2028-01-04
   section Research Engineer 
     AP-HM. :done, b, 2025-10-06, 2025-12-31
   section Research Engineer

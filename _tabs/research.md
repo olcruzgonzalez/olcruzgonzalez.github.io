@@ -7,7 +7,7 @@ order: 5
 
 ### In a nutshell
 
-[![Citations](https://img.shields.io/badge/Total_citations-241-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/Total_citations-247-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [![h-index](https://img.shields.io/badge/7-blue?label=h-index&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [![i10-index](https://img.shields.io/badge/6-blue?label=i10-index&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 
@@ -20,19 +20,24 @@ The second area of focus, which I have been working on recently, is the emerging
 <!-- [<img src="/assets/img/research/GoogleScholar1.png" alt="Download link" width="15"/>](https://scholar.google.com/citations?user=SBW8knEAAAAJ\&hl=en) -->
 **Achievements in numbers:** [<img src="/assets/img/research/Arxiv.png" alt="Download link" width="40"/>](https://arxiv.org/a/0000-0002-6739-9429.html) [<img src="/assets/img/research/HAL.png" alt="Download link" width="29"/>](https://hal.science/search/index/?qa%5Bidentifiers_id%5D%5B%5D=oscar-luis-cruz-gonzalez) [<img src="/assets/img/research/Researchgate1.png" alt="Download link" width="18"/>](https://www.researchgate.net/profile/Oscar_Luis_Cruz_Gonzalez) [<img src="/assets/img/research/ORCID1.png" alt="Download link" width="18"/>](https://orcid.org/0000-0002-6739-9429)
 
-- 11 articles, 1 preprint, 2 chapters in books, 7 conference proceedings
+- 12 articles, 2 preprint, 2 chapters in books, 7 conference proceedings
 - 30+ events: conferences, congresses, symposiums, workshops & seminars.
 
 ### Preprints
 
-**O.L. Cruz-González**, V. Deplano, B. Ghattas.  *Enhanced Vascular Flow Simulations in Aortic Aneurysm via Physics-Informed Neural
-Networks and DeepONets*. *Submitted*. 
-[![Citations](https://img.shields.io/badge/citations-3-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+0. **O.L. Cruz-González**, V. Deplano, B. Ghattas.  *Learning Unsteady Aneurysm Hemodynamics with Physics-Informed DeepONets*. *In progress*. 
+
+0. B. Mederos, **O.L. Cruz-González**, G. Farrera-Rivera, R. Rodríguez-Ramos, Y. Espinosa-Almeyda, J. Merodio, A.C. Alvarez, and C. Quesada-González. *Coupling Asymptotic Homogenization and PINNs for Predicting Effective Properties of One-Dimensional Composites*. *Submitted*.
 
 ### Articles
 
+0. **O.L. Cruz-González**, V. Deplano, B. Ghattas (**2026**).  *Enhanced vascular flow simulations in aortic aneurysm via physics-informed neural networks and deep operator networks*. Mechanics Research Communications 153, 104642.
+[![Citations](https://img.shields.io/badge/citations-3-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en) 
+[<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://hal.science/hal-05504252v1/document)
+[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi-org.lama.univ-amu.fr/10.1016/j.mechrescom.2026.104642) <!-- Author's rights --> 
+
 0. **O.L. Cruz-González**, R. Cornaggia, S. Dartois, R. Brenner (**2024**).  *Accounting for spatial distribution in mean-field homogenization of particulate composites*. International Journal of Solids and Structures 294, 112747. 
-[![Citations](https://img.shields.io/badge/citations-1-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/citations-2-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://hal.science/hal-04228646/document)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.1016/j.ijsolstr.2024.112747) <!-- Author's rights --> 
 
@@ -61,7 +66,7 @@ Networks and DeepONets*. *Submitted*.
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.1016/j.ijengsci.2020.103377)<!-- Author's rights -->
 
 0. J.A. Otero, R. Rodríguez-Ramos, R. Guinovart-Díaz,  **O.L. Cruz-González**, F.J. Sabina, H. Berger,  T. B\"ohlke (**2020**).  *Asymptotic and numerical homogenization methods applied to fibrous viscoelastic composites using Prony’s series*. Acta Mechanica volume 231, 2761–2771. 
-[![Citations](https://img.shields.io/badge/citations-40-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/citations-41-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://link.springer.com/article/10.1007/s00707-020-02671-1)<!-- Author's rights -->
 
 0.	**O.L. Cruz-González**, A. Ramírez-Torres, R. Rodríguez-Ramos, R. Penta, J. Bravo-Castillero, R. Guinovart-Díaz, J. Merodio,  F.J. Sabina, F. Lebon (**2020**). *A hierarchical asymptotic homogenization approach for viscoelastic composites*. Mechanics of Advanced Materials and Structures. 
@@ -70,7 +75,7 @@ Networks and DeepONets*. *Submitted*.
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.tandfonline.com/doi/full/10.1080/15376494.2020.1722872)<!-- Author's rights -->
 
 0. R. Rodríguez-Ramos, J.A. Otero, **O.L. Cruz-González**, R. Guinovart-Díaz,  J. Bravo-Castillero, F.J. Sabina, P. Padilla, F. Lebon,  I. Sevostianov (**2020**). *Computation of the relaxation effective moduli for fibrous viscoelastic composites using the asymptotic homogenization method*. International Journal of Solids and Structures, 190, 281–290. 
-[![Citations](https://img.shields.io/badge/citations-47-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/citations-49-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.sciencedirect.com/science/article/pii/S0020768319304743)<!-- Author's rights -->
 
 0.	**O.L. Cruz-González**, D. Guinovart-Sanjuán, R. Rodríguez-Ramos, J. Bravo-Castillero, R. Guinovart-Díaz, J. Merodio, R. Penta, J.A. Otero, S. Dumont, F. Lebon,  F.J. Sabina (**2019**). *An approach for modeling non-ageing linear viscoelastic composites with general periodicity*. Composite Structures, 223, 110927. 
@@ -88,13 +93,13 @@ Networks and DeepONets*. *Submitted*.
 ### Peer reviewed chapters in books
 
 0. R. Rodríguez-Ramos,  A. Ramírez-Torres, J. Bravo-Castillero, R. Guinovart-Díaz, D. Guinovart-Sanjuán, **O.L. Cruz-González**, F.J. Sabina, J. Merodio, R. Penta (**2020**) *Multiscale Homogenization for Linear Mechanics*. In: Merodio J., Ogden R. (eds) Constitutive Modelling of Solid Continua. Solid Mechanics and Its Applications, vol 262. Springer, Cham. 
-[![Citations](https://img.shields.io/badge/citations-4-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/citations-5-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://link.springer.com/chapter/10.1007\%2F978-3-030-31547-4_12)<!-- Author's rights -->
 
 
 
 0. **Oscar L. Cruz-González**, Reinaldo Rodríguez-Ramos, José A. Otero, Julián Bravo-Castillero, Raúl Guinovart-Díaz, Raúl Martínez-Rosado, Federico J. Sabina, Serge Dumont, Frederic Lebon, and Igor Sevostianov. (**2018**) *Viscoelastic effective properties for composites with rectangular cross-section fibers using the asymptotic homogenization method*. In: Altenbach H., Pouget J., Rousseau M., Collet B., Michelitsch T. (eds) Generalized Models and Non-classical Approaches in Complex Materials 1. Advanced Structured Materials, vol 89. Springer, Cham.
-[![Citations](https://img.shields.io/badge/citations-12-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/citations-13-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://hal.science/hal-02336710v1/document)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://link.springer.com/chapter/10.1007/978-3-319-72440-9_10)<!-- Author's rights -->
 {: reversed="reversed"}
@@ -103,7 +108,7 @@ Networks and DeepONets*. *Submitted*.
 
 ### Publications in proceedings with reviews
 
-0. SB2025-Marseille: 50ème Congrès de la Société de Biomécanique. **October 27-29, 2025**. Marseille, France.  **Oscar L. Cruz-González**, Valérie Deplano, Badih Ghattas. *Physics-Informed Deep Learning Surrogates for Aneurysm Blood Flow Simulation*.  Proceedings of the conference. 
+0. SB2025-Marseille: 50th Congress of the Biomechanics Society. **October 27-29, 2025**. Marseille, France.  **Oscar L. Cruz-González**, Valérie Deplano, Badih Ghattas. *Physics-Informed Deep Learning Surrogates for Aneurysm Blood Flow Simulation*.  Proceedings of the conference. 
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://mbj.episciences.org/articles/16176) 
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://sb2025-marseille.sciencesconf.org/)<!-- Author's rights -->
 
@@ -135,7 +140,7 @@ Networks and DeepONets*. *Submitted*.
 
 #### 2025
 
-- **(Conference)** SB2025-Marseille: 50ème Congrès de la Société de Biomécanique. **October 27-29, 2025**. Marseille, France. 
+- **(Conference)** SB2025-Marseille: 50th Congress of the Biomechanics Society. **October 27-29, 2025**. Marseille, France. 
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://sb2025-marseille.sciencesconf.org/)
 
 - **(Workshop)** XIX Taller de Física de la Materia Condensada y Molecular. **June 23-25, 2025**. Cuernavaca,
