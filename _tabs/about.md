@@ -9,7 +9,7 @@ mermaid: true
 ---
 
 <!-- GENERAL -->
-I am a **Mathematician** with a seven-year research career, beginning with a **PhD in Engineering Sciences** and continuing through **several postdoctoral positions**. This journey has contributed to improve my ability to formulate research problems, integrate existing knowledge and strive to find solutions.
+I am a **Mathematician** with an eight-year research career, beginning with a **PhD in Engineering Sciences** and continuing through **several postdoctoral positions**. This journey has contributed to improve my ability to formulate research problems, integrate existing knowledge and strive to find solutions.
 
 Parallel to my research endeavors, I have continually found myself expanding this expertise and developing new skills that aligned with my growing interest in the field of **AI and technology**. I am interested in driving innovation and solving real-world problems.
 

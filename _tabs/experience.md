@@ -8,7 +8,7 @@ math: true
 mermaid: true
 ---
 
-- **Jan 2026 - Jan 2028** ![Image](/assets/img/experience/IRPHE.png){:.w-25 .right}
+- **Jan 2026 - Present** ![Image](/assets/img/experience/IRPHE.png){:.w-25 .right}
   > Postdoctoral Research Associate: **AI for Science**. \
   > Aix-Marseille University. Marseille, France. \
   > [IRPHE](https://irphe.univ-amu.fr/) (UMR7342, Bio-mechanics team). \

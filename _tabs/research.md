@@ -25,7 +25,9 @@ The second area of focus, which I have been working on recently, is the emerging
 
 ### Preprints
 
-0. **O.L. Cruz-González**, V. Deplano, B. Ghattas.  *Learning Unsteady Aneurysm Hemodynamics with Physics-Informed DeepONets*. In progress. 
+0. **O.L. Cruz-González**, V. Deplano, B. Ghattas (**2026**).  *Learning Unsteady Aneurysm Hemodynamics with Physics-Informed DeepONets*. arXiv:2608.13629 [stat.ML].
+[<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://arxiv.org/pdf/2608.13629)
+[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.48550/arXiv.2608.13629)
 
 0. C. Quesada-González, **O.L. Cruz-González**, R. Rodríguez-Ramos, B. Mederos, Y. Espinosa-Almeyda and J. Merodio. *Multiscale modeling of composite materials: A hybrid approach integrating asymptotic homogenization and physics-informed neural networks*. Submitted to Proceedings of the Royal Society A.
 
