@@ -39,13 +39,18 @@ Open source numerical tools.
   
 ![Image](/assets/img/projects/aaa_steady/Longitudinal.png){: width="600" height="300" .w-50 .center}
 
-### Project Finder: AHM + SciML
+### CompSciMLab
 
 [![Skill](https://img.shields.io/badge/-AHM-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
 [![Skill](https://img.shields.io/badge/-Composites-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
 [![Skill](https://img.shields.io/badge/-SciML-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
 [![Skill](https://img.shields.io/badge/-AI4Science-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
 [![Skill](https://img.shields.io/badge/-Pytorch-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
+
+  > Research codes developed within the [CompSciMLab](https://github.com/composites-pinns) organization, coupling Asymptotic Homogenization Methods (AHM) with Scientific Machine Learning to predict the effective properties of composite materials.
+
+#### Project Finder
+{: #project-finder }
 
 <div id="project-finder-container"></div>
 
@@ -205,8 +210,28 @@ document.addEventListener("DOMContentLoaded", () => {
   const resultContainer = document.getElementById("project-result");
   const state = {};
 
+  // Deep linking. Either name a project directly:
+  //   /projects/?project=elastic_1d_imperfect#project-finder-ahm--sciml
+  // or set individual parameters:
+  //   /projects/?contact=Imperfect&dimensions=1D#project-finder-ahm--sciml
+  const query = new URLSearchParams(window.location.search);
+  const preset = {};
+
+  const wantedId = (query.get("project") || "").trim().toLowerCase();
+  if (wantedId) {
+    const match = PROJECTS.find(p => p.id.toLowerCase() === wantedId);
+    if (match) Object.assign(preset, match.params);
+  }
+
   Object.keys(PARAMETERS).forEach(key => {
-    state[key] = PARAMETERS[key].options[0];
+    const rawValue = query.get(key);
+    if (!rawValue) return;
+    const opt = PARAMETERS[key].options.find(o => o.toLowerCase() === rawValue.trim().toLowerCase());
+    if (opt) preset[key] = opt;
+  });
+
+  Object.keys(PARAMETERS).forEach(key => {
+    state[key] = preset[key] || PARAMETERS[key].options[0];
     const field = document.createElement("div");
     field.className = "pf-field";
     
@@ -220,6 +245,7 @@ document.addEventListener("DOMContentLoaded", () => {
       option.innerText = opt;
       select.appendChild(option);
     });
+    select.value = state[key];
     
     select.addEventListener("change", (e) => {
       state[key] = e.target.value;
@@ -254,6 +280,14 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   renderResult();
+
+  // The finder is injected after the browser has already acted on the URL fragment,
+  // so run the scroll again now that the section has its final height.
+  const anchorId = decodeURIComponent(window.location.hash.replace("#", ""));
+  const anchor = anchorId ? document.getElementById(anchorId) : null;
+  if (anchor) {
+    requestAnimationFrame(() => anchor.scrollIntoView({ block: "start" }));
+  }
 });
 </script>
 

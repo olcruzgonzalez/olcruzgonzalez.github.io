@@ -31,10 +31,10 @@ The second area of focus, which I have been working on recently, is the emerging
 [<img src="/assets/img/access_to_code.png" alt="Access to code" title="Access to code" width="15"/>](/projects/#aaa_unsteady)
 
 0. C. Quesada-González, **O.L. Cruz-González**, R. Rodríguez-Ramos, B. Mederos, Y. Espinosa-Almeyda and J. Merodio. *Multiscale modeling of composite materials: A hybrid approach integrating asymptotic homogenization and physics-informed neural networks*. Submitted to Proceedings of the Royal Society A.
-[<img src="/assets/img/access_to_code.png" alt="Access to code" title="Access to code" width="15"/>](/projects/#project-finder-ahm--sciml)
+[<img src="/assets/img/access_to_code.png" alt="Access to code" title="Access to code" width="15"/>](/projects/?project=laminated_3d#project-finder)
 
 0. B. Mederos, Y. Espinosa-Almeyda, **O.L. Cruz-González**, R. Rodríguez-Ramos and A.C. Alvarez. *Physics-Informed Neural Networks for predicting homogenized effective properties of one-dimensional composites with imperfect interface*. Submitted to Mathematics and Mechanics of Solids.
-[<img src="/assets/img/access_to_code.png" alt="Access to code" title="Access to code" width="15"/>](/projects/#project-finder-ahm--sciml)
+[<img src="/assets/img/access_to_code.png" alt="Access to code" title="Access to code" width="15"/>](/projects/?project=elastic_1d_imperfect#project-finder)
 
 ### Articles
 
@@ -103,7 +103,7 @@ The second area of focus, which I have been working on recently, is the emerging
 
 0. B. Mederos-Madrazo, **O.L. Cruz-González**, G. Farrera-Rivera, R. Rodríguez-Ramos, Y. Espinosa-Almeyda, J. Merodio, A. Alvarez Cruz, C. Quesada-González (**2026**) *Coupling Asymptotic Homogenization and Physics-Informed Neural Networks for Predicting Effective Properties of One-Dimensional Composites*. In: Altenbach H., Fantuzzi N., Ferreira A.J.M. (eds) Composite Structures and Technology. Advanced Structured Materials, vol 255. Springer, Cham. 
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.1007/978-3-032-24656-1_6)<!-- Author's rights -->
-[<img src="/assets/img/access_to_code.png" alt="Access to code" title="Access to code" width="15"/>](/projects/#project-finder-ahm--sciml)
+[<img src="/assets/img/access_to_code.png" alt="Access to code" title="Access to code" width="15"/>](/projects/?project=elastic_1d#project-finder)
 
 0. R. Rodríguez-Ramos,  A. Ramírez-Torres, J. Bravo-Castillero, R. Guinovart-Díaz, D. Guinovart-Sanjuán, **O.L. Cruz-González**, F.J. Sabina, J. Merodio, R. Penta (**2020**) *Multiscale Homogenization for Linear Mechanics*. In: Merodio J., Ogden R. (eds) Constitutive Modelling of Solid Continua. Solid Mechanics and Its Applications, vol 262. Springer, Cham. 
 [![Citations](https://img.shields.io/badge/citations-5-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
@@ -152,6 +152,10 @@ The second area of focus, which I have been working on recently, is the emerging
 ### Conferences | Congresses | Symposiums | Workshops | Seminars
 
 #### 2026
+
+- **(Workshop)** XX Taller de Física de la Materia Condensada y Molecular. **June 22-24, 2026**. Cuernavaca, Morelos, México. [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://cinc.uaem.mx/wp-content/uploads/2026/07/LibroResumenesXXTallerFisMatCondyMol.pdf) [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://cinc.uaem.mx/ediciones/)\
+Speaker: Reinaldo Rodríguez-Ramos. *PINN-Assisted Asymptotic Homogenization of one-dimensional composites with interface effects*. Authors:  Reinaldo Rodríguez-Ramos, Boris Mederos, Yoanh Espinosa-Almeyda, Héctor Camacho-Montes, **Oscar L. Cruz-González**, Amaury C. Álvarez, José A. Otero.\
+Speaker: Boris Mederos. *Aproximación Neuronal Informada por la Física y Recuperación de Parámetros para Modelos SIR de Transmisión de Enfermedades*. Authors:  Boris Mederos, Yoanh Espinosa-Almeyda, Jorge Terrazas, Gaizka Ferrara-Rivera, Héctor Camacho-Montes, Amaury Álvarez-Cruz, Reinaldo Rodríguez-Ramos, **Oscar L. Cruz-González**.
 
 - **(Conference)** ICoNSoM 2026: International Conference on Nonlinear Solid Mechanics. **June 11-18, 2026**. Alghero, Sardinia, Italy. Speaker: **O.L. Cruz González**. *Deep Learning Surrogates for Aortic Aneurysm Hemodynamics: A Physics-Informed Approach*. Authors:  Oscar L. Cruz González, Valérie Deplano, Badih Ghattas.
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.memocsevents.eu/iconsom2026/)
