@@ -150,8 +150,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <blockquote>
           <p>
           This code implements a hybrid multiscale framework that couples Asymptotic Homogenization Methods (AHM) with Physics-Informed Neural Networks (PINNs) to predict the effective elastic properties of one-dimensional periodic composites.<br>
-          <strong>Repository:</strong> <a href="https://github.com/composites-pinns/elastic_1D" target="_blank">composites-pinns/elastic_1D</a><br>
-          **This repository will become public once our associated manuscript is accepted for publication.
+          <strong>Repository:</strong> <a href="https://github.com/composites-pinns/elastic_1D" target="_blank">composites-pinns/elastic_1D</a>
           </p>
         </blockquote>
         <p><a href="/assets/img/projects/cell_problem_nn/ahm_pinns.png" class="popup img-link w-50 center shimmer"><img src="/assets/img/projects/cell_problem_nn/ahm_pinns.png" alt="Image" width="600" height="300" loading="lazy" onload="this.parentElement.classList.remove('shimmer')"></a></p>
@@ -168,8 +167,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <blockquote>
           <p>
           This study combines two-scale AHM with PINNs to predict the effective elastic properties of two-phase laminated composites. The AHM local problems are solved as physics-driven optimization tasks, enforcing governing equations, interface continuity, and uniqueness constraints without training data. A cyclic optimizer and adaptive loss weighting improve convergence, while validation against analytical AHM and FEM results confirms the accuracy and stability of the approach.<br>
-          <strong>Repository:</strong> <a href="https://github.com/composites-pinns/laminated_3D" target="_blank">composites-pinns/laminated_3D</a><br>
-          **This repository will become public once our associated manuscript is accepted for publication.
+          <strong>Repository:</strong> <a href="https://github.com/composites-pinns/laminated_3D" target="_blank">composites-pinns/laminated_3D</a>
           </p>
         </blockquote>
         <p><a href="/assets/img/projects/cell_problem_nn/laminated_3D.png" class="popup img-link w-50 center shimmer"><img src="/assets/img/projects/cell_problem_nn/laminated_3D.png" alt="Image" width="600" height="300" loading="lazy" onload="this.parentElement.classList.remove('shimmer')"></a></p>
@@ -186,8 +184,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <blockquote>
           <p>
           This work presents a coupled multiscale framework combining two-scale AHM with PINNs to predict the effective properties of one-dimensional periodic composites with imperfect interface conditions. Validation against the original heterogeneous problem confirms the accuracy of the proposed methodology across different volume fractions and material contrasts.<br>
-          <strong>Repository:</strong> <a href="https://github.com/composites-pinns/elastic_1D_imperfect" target="_blank">composites-pinns/elastic_1D_imperfect</a><br>
-          **This repository will become public once our associated manuscript is accepted for publication.
+          <strong>Repository:</strong> <a href="https://github.com/composites-pinns/elastic_1D_imperfect" target="_blank">composites-pinns/elastic_1D_imperfect</a>
           </p>
         </blockquote>
         <p><a href="/assets/img/projects/cell_problem_nn/dual_net.png" class="popup img-link w-50 center shimmer"><img src="/assets/img/projects/cell_problem_nn/dual_net.png" alt="Image" width="600" height="300" loading="lazy" onload="this.parentElement.classList.remove('shimmer')"></a></p>
@@ -316,7 +313,7 @@ document.addEventListener("DOMContentLoaded", () => {
 [![Skill](https://img.shields.io/badge/-PIDeepONets-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
 
   > This code moves the physics-based deep learning workflow beyond idealized geometries and applies it to a patient-specific thoracic aorta. PINNs and PI-DeepONets are trained to reproduce the pulsatile blood flow over a complete cardiac cycle, and their predictions are then assessed against the reference CFD solution.\
-  > It is part of our work on surrogate models for thoracic aorta pathologies, found at the repository [olcruzgonzalez/Aorta](https://github.com/olcruzgonzalez/Aorta)\
+  > It is part of our work on surrogate models for thoracic aortic pathologies, found at the repository [olcruzgonzalez/Aorta](https://github.com/olcruzgonzalez/Aorta)\
   > ***The code will be made public after peer review and acceptance of our associated manuscript.*
 
 <!-- Encoded from the aorta_*.mkv masters: audio track removed and 4x playback speed baked into each file. -->

@@ -11,11 +11,11 @@ mermaid: true
 - **Jan 2026 - Present** ![Image](/assets/img/experience/IRPHE.png){:.w-25 .right}
   > Postdoctoral Research Associate: **AI for Science**. \
   > Aix-Marseille University. Marseille, France. \
-  > [IRPHE](https://irphe.univ-amu.fr/) (UMR7342, Bio-mechanics team). \
+  > [IRPHE](https://irphe.univ-amu.fr/) (UMR7342, Biomechanics team). \
   > [AMSE](https://www.amse-aixmarseille.fr/fr) (UMR7316, Econometrics and Statistics team).\
   <!-- > [Full description ...](/experience-full-description/postdoc-marseille-2023-2025) -->
 
-- **Oct 2025 - Dic 2025** ![Image](/assets/img/experience/aphm.png){:.w-25 .right}
+- **Oct 2025 - Dec 2025** ![Image](/assets/img/experience/aphm.png){:.w-25 .right}
   > Research Engineer: **Applied AI**. \
   > Hôpitaux Universitaires de Marseille (AP-HM). Marseille, France. \
   > [AP-HM](https://fr.ap-hm.fr/).
@@ -27,20 +27,20 @@ mermaid: true
 
 - **Feb 2025 - May 2025** ![Image](/assets/img/experience/CentralMediterranee.png){:.w-25 .right}
   > Postdoctoral Research Associate: **AI for Science**. \
-  > Central Méditerranée. Marseille, France. \
-  > [IRPHE](https://irphe.univ-amu.fr/) (UMR7342, Bio-mechanics team). 
+  > Centrale Méditerranée. Marseille, France. \
+  > [IRPHE](https://irphe.univ-amu.fr/) (UMR7342, Biomechanics team). 
  
 - **Aug 2023 - Jan 2025** ![Image](/assets/img/experience/IRPHE.png){:.w-25 .right}
   > Postdoctoral Research Associate: **AI for Science**. \
   > Aix-Marseille University. Marseille, France. \
-  > [IRPHE](https://irphe.univ-amu.fr/) (UMR7342, Bio-mechanics team). \
+  > [IRPHE](https://irphe.univ-amu.fr/) (UMR7342, Biomechanics team). \
   > [AMSE](https://www.amse-aixmarseille.fr/fr) (UMR7316, Econometrics and Statistics team).\
   > [Full description ...](/experience-full-description/postdoc-marseille-2023-2025)
 
 - **Nov 2021 - Nov 2022** ![Image](/assets/img/experience/Paris.png){:.w-25 .right}
   > Postdoctoral Research Associate: **Advanced Micromechanical Models**. \
   > Sorbonne University, UFR d'ingénierie. Paris, France.\
-  > [Institute Jean le Rond d'Alembert](https://www.dalembert.upmc.fr/ijlrda/) (UMR7190, MISES team).\
+  > [Institut Jean le Rond d'Alembert](https://www.dalembert.upmc.fr/ijlrda/) (UMR7190, MISES team).\
   > [Full description ...](/experience-full-description/postdoc-paris-2021-2022)
 
 - **Oct 2018 - Sept 2021** ![Image](/assets/img/experience/LMA.png){:.w-25 .right}
@@ -53,8 +53,8 @@ mermaid: true
   > Lecturer: **Mathematics**. \
   > Mathematics Department, Faculty of Pedagogical Sciences. University of Matanzas. Matanzas, Cuba.\
   > Description:
-  > - Lectures on Probability and Statistics, Calculus I, II and Numeric Methods.
-	> - Development of skills in teaching methods and math education.
+  > - Delivered lectures in Probability and Statistics, Calculus I and II, and Numerical Methods.
+	> - Developed expertise in mathematics pedagogy and instructional methods.
   <!-- > [Full description ...](/experience-full-description/lecturer-cuba-2016-2018) -->
 
 ```mermaid
@@ -71,7 +71,7 @@ mermaid: true
   section Research Engineer
     Aix-Marseille Uni. :done, b, 2025-06-01, 2025-09-30
   section Postdoc 3
-    Central Méditerranée :done, b, 2025-02-01, 2025-05-31
+    Centrale Méditerranée :done, b, 2025-02-01, 2025-05-31
   section Postdoc 2
     Aix-Marseille Uni. :done, b, 2023-08-03, 2025-01-31
   section Skill Development

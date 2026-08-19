@@ -74,7 +74,7 @@ The second area of focus, which I have been working on recently, is the emerging
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://hal.science/hal-03085165/document)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.1016/j.ijengsci.2020.103377)<!-- Author's rights -->
 
-0. J.A. Otero, R. Rodríguez-Ramos, R. Guinovart-Díaz,  **O.L. Cruz-González**, F.J. Sabina, H. Berger,  T. B\"ohlke (**2020**).  *Asymptotic and numerical homogenization methods applied to fibrous viscoelastic composites using Prony’s series*. Acta Mechanica volume 231, 2761–2771. 
+0. J.A. Otero, R. Rodríguez-Ramos, R. Guinovart-Díaz,  **O.L. Cruz-González**, F.J. Sabina, H. Berger,  T. Böhlke (**2020**).  *Asymptotic and numerical homogenization methods applied to fibrous viscoelastic composites using Prony’s series*. Acta Mechanica volume 231, 2761–2771. 
 [![Citations](https://img.shields.io/badge/citations-43-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://link.springer.com/article/10.1007/s00707-020-02671-1)<!-- Author's rights -->
 
@@ -125,12 +125,12 @@ The second area of focus, which I have been working on recently, is the emerging
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://mbj.episciences.org/articles/16176) 
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://sb2025-marseille.sciencesconf.org/)<!-- Author's rights -->
 
-0. ICIRASTE'2021-The International Conference on Interdisciplinary Research in Applied Sciences, Technologies and Engineering. **June, 5-6, 2021**. Sbeitla-Kasserine, Tunisia.  **Oscar L. Cruz-González**, Reinaldo Rodríguez-Ramos, Frederic Lebon. *Evaluation of the effective viscoelastic properties of short fibers reinforced composites**.  Proceedings of the conference. 
+0. ICIRASTE'2021-The International Conference on Interdisciplinary Research in Applied Sciences, Technologies and Engineering. **June, 5-6, 2021**. Sbeitla-Kasserine, Tunisia.  **Oscar L. Cruz-González**, Reinaldo Rodríguez-Ramos, Frederic Lebon. *Evaluation of the effective viscoelastic properties of short fibers reinforced composites*.  Proceedings of the conference. 
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://hal.science/hal-03505391v1/document) 
 <!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://www.issatkas.rnu.tn/fra/pages/293/ICIRASTE-2021-conference?fbclid=IwAR1soZLrxx2WUN0Iy9qzNSHD2j1aJpRbywXZTow5xtkOzhKKGJYMyWmmfps) -->
 <!-- Author's rights -->
 
-0. 5th Brazilian Conference on Composite Materials-BCCM 5. **January, 18-22, 2021**. V. Tita, J. R. Tarpani and M. L. Ribeiro (Editors). Sao Carlos School of Engineering – University of Sao Paulo, Brazil.  **Oscar L. Cruz-González**, Reinaldo Rodríguez-Ramos, Frederic Lebon. *Overall viscoelastic properties of fiber-reinforced hierarchical composites**.  Proceedings of the conference. 
+0. 5th Brazilian Conference on Composite Materials-BCCM 5. **January, 18-22, 2021**. V. Tita, J. R. Tarpani and M. L. Ribeiro (Editors). São Carlos School of Engineering – University of São Paulo, Brazil.  **Oscar L. Cruz-González**, Reinaldo Rodríguez-Ramos, Frederic Lebon. *Overall viscoelastic properties of fiber-reinforced hierarchical composites*.  Proceedings of the conference. 
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://hal.science/hal-03225876v1/document) 
 <!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://soac.eesc.usp.br/index.php/bccm/5bccm) -->
 <!-- Author's rights -->
@@ -141,7 +141,7 @@ The second area of focus, which I have been working on recently, is the emerging
 
 0. COMPUMAT. **November 22-24, 2017**. Universidad Tecnológica de La Habana, Cuba. **Oscar L. Cruz González**, Reinaldo Rodríguez Ramos, José A. Otero, Federico J. Sabina, *Propiedades efectivas viscoelásticas de un material compuesto reforzado con fibras*. ISBN: 978-959-261-562-5.
 
-0. IV International scientific-practical conference on applied aspects of Geology, Geophysics and Geoecology with the use of contemporary technological informations. **May 15-18, 2017**. Maykop, Republic of Adygea, Russia. Proceedings of the conference Part I, p. 10-20, 258 pages. ISBN 978-5-906696-84-7, ISBN 978-5-906696-85-4. **Oscar L. Cruz-González**, J. A. Otero, R. Rodríguez-Ramos, R. Guinovart-Días, J. Bravo-Castilleros. *Computation of the effective properties of viscoelastic composite materials*. 
+0. IV International scientific-practical conference on applied aspects of Geology, Geophysics and Geoecology with the use of contemporary technological informations. **May 15-18, 2017**. Maykop, Republic of Adygea, Russia. Proceedings of the conference Part I, pp. 10–20, 258 pages. ISBN 978-5-906696-84-7, ISBN 978-5-906696-85-4. **Oscar L. Cruz-González**, J. A. Otero, R. Rodríguez-Ramos, R. Guinovart-Díaz, J. Bravo-Castillero. *Computation of the effective properties of viscoelastic composite materials*. 
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.elibrary.ru/item.asp?id=29411430)<!-- Author's rights -->
 
 0. VIII International Scientific Convention "Integrated and Innovative University", CIUM. **April 10-14, 2017**. Varadero, Matanzas, Cuba. Proceedings of the conference, ISBN 978-959-16-3296-8.  **Oscar L. Cruz-González**. *Facial Recognition*. 
@@ -219,7 +219,7 @@ models. Applications to vascular pathologies*. Authors:  Oscar L. Cruz González
 - **(Workshop)** MISTRAL: Homogenization methods. First internal workshop of the joint laboratory. **June 9, 2021**. IUT d’Aix-en-Provence Amphi Est, Marseille, France. Speaker: **O.L. Cruz-González**. *Semi-analytical approach for the homogenization of viscoelastic composite materials*. Authors: Oscar L. Cruz-González, Reinaldo Rodríguez-Ramos, Frederic Lebon. 
 <!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://soac.eesc.usp.br/index.php/bccm/5bccm) -->
 
-- **(Conference)** ICIRASTE'2021. **June 5-6, 2021**. Speaker: **O.L. Cruz-González**. *Evaluation of the effective viscoelastic properties of short fibers reinforced composites.  Authors: Oscar L. Cruz-González, Reinaldo Rodríguez-Ramos, Frederic Lebon. 
+- **(Conference)** ICIRASTE'2021. **June 5-6, 2021**. Speaker: **O.L. Cruz-González**. *Evaluation of the effective viscoelastic properties of short fibers reinforced composites*.  Authors: Oscar L. Cruz-González, Reinaldo Rodríguez-Ramos, Frederic Lebon. 
 <!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](http://www.issatkas.rnu.tn/fra/pages/293/ICIRASTE-2021-conference?fbclid=IwAR1soZLrxx2WUN0Iy9qzNSHD2j1aJpRbywXZTow5xtkOzhKKGJYMyWmmfps) -->
 
 - **(Conference)** SIAM Conference on Mathematical Aspects of Materials Science-MS 21. Minisymposium "Multi-scale modelling in Biomechanic" (MS67). **May 17-27, 2021**. Virtual. Speaker: **O.L. Cruz-González**. *Multi-scale Homogenization of Hierarchical Viscoelastic Composites*. Authors: Oscar L. Cruz-González, R. Rodríguez-Ramos,  A. Ramírez-Torres, R. Penta, F. Lebon.  [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://wp.bcamath.org/siamms21/)
@@ -275,7 +275,7 @@ Tecnológico y de Estudios Superiores de Monterrey. **September 30, 2020**. Spea
 
 #### 2017
 
-- **(Congress)** XV International Congress COMPUMAT. Technological University of Havana "José Antonio Echeverría",**November 22-24, 2017**. Havana, Cuba. [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://cujae.edu.cu/)
+- **(Congress)** XV International Congress COMPUMAT. Technological University of Havana "José Antonio Echeverría", **November 22-24, 2017**. Havana, Cuba. [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://cujae.edu.cu/)
 
 - **(Workshop)** II International Workshop of Didactic and Application of the Basic Science. University of Matanzas. Speaker: **Oscar L. Cruz-González**. *Facial Recognition*. **April, 2017**. Matanzas, Cuba.
 <!-- [<img src="/assets/img/external_link.png" alt="External link" width="15"/>]({www.umcc.cu) -->
