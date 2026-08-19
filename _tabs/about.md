@@ -25,7 +25,7 @@ In my current research project, I am applying **SciML methods**, e.g., classical
 - AI, Machine Learning, Deep Learning
 - MLOps
 
-*Please feel free to reach me out. I look forward to discussing how my experience, skills and motivation can contribute to your team. Connect with me on LinkedIn [<img src="/assets/img/about/Linkedln1.png" alt="LinkedIn profile" width="15"/>](https://www.linkedin.com/in/oscar-luis-cruz-gonzalez/) or download my full CV [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://drive.google.com/file/d/1wgImCG8SvXU5l87xzwqx-AYZJsYEWmdl/view?usp=sharing).
+*Please feel free to reach me out. I look forward to discussing how my experience, skills and motivation can contribute to your team. Connect with me on LinkedIn [<img src="/assets/img/about/Linkedln1.png" alt="LinkedIn profile" width="15"/>](https://www.linkedin.com/in/oscar-luis-cruz-gonzalez/) or download my full CV [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](/assets/cv/CV_Oscar_Cruz-Gonzalez.pdf).
 
 <!-- <div style="display: flex; justify-content: space-between; align-items: flex-start;"> -->
 
