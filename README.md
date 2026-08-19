@@ -52,10 +52,18 @@ If you have problems using it, or would like to participate in improving it, ple
 
 ## License
 
-This work is published under [MIT][mit] License.
+The Chirpy theme and the starter files are published under the [MIT][mit] License.
+
+The original content of this site -- written pages and posts, and the scientific
+figures, animations and videos under `assets/img/projects/`, `assets/img/posts/` and
+`assets/video/` -- is licensed under
+[Creative Commons Attribution 4.0 International (CC BY 4.0)][ccby].
+Third-party logos and trademarks are excluded. See [LICENSE-CONTENT](LICENSE-CONTENT)
+for the exact scope.
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [use-template]: https://github.com/cotes2020/chirpy-starter/generate
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+[ccby]: https://creativecommons.org/licenses/by/4.0/

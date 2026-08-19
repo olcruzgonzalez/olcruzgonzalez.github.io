@@ -37,8 +37,10 @@ copyright:
   # Displayed in the footer
   brief: Some rights reserved.
   verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+    Except where otherwise noted, the written content, figures, animations and videos
+    on this site are licensed under the Creative Commons Attribution 4.0 International
+    (CC BY 4.0) License by the author. Third-party logos and trademarks remain the
+    property of their respective owners.
 
 meta: Using the :THEME theme for :PLATFORM.
 

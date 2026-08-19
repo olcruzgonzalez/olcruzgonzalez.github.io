@@ -1,0 +1,62 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Oscar L. Cruz González
+
+------------------------------------------------------------------------
+WHAT THIS LICENSE COVERS
+------------------------------------------------------------------------
+
+The original content of this site authored by Oscar L. Cruz González:
+
+  * the written content of the pages and posts
+      _posts/, _tabs/, experience-full-description/, index.html
+  * the original scientific figures, animations and videos
+      assets/img/projects/**
+      assets/img/posts/**
+      assets/img/experience/project_marseille.png
+      assets/img/experience/project_paris.png
+      assets/video/**
+
+You are free to:
+
+  Share  -- copy and redistribute the material in any medium or format
+  Adapt  -- remix, transform, and build upon the material for any purpose,
+            including commercially
+
+under the following term:
+
+  Attribution -- You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any
+  reasonable manner, but not in any way that suggests the licensor
+  endorses you or your use.
+
+Full legal text     https://creativecommons.org/licenses/by/4.0/legalcode
+Readable summary    https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution:
+
+  "Oscar L. Cruz González, https://olcruzgonzalez.github.io, CC BY 4.0"
+
+------------------------------------------------------------------------
+WHAT THIS LICENSE DOES NOT COVER
+------------------------------------------------------------------------
+
+  * The Jekyll theme (Chirpy) and the files derived from it, which are
+    distributed under the MIT License. See LICENSE.
+
+  * Third-party logos and trademarks, which remain the property of their
+    respective owners and appear here for identification purposes only:
+
+      assets/img/education/**        UH, LMA
+      assets/img/experience/*.png    AMSE, APHM, Centrale Méditerranée,
+                                     IRPHE, LMA, Paris, UMCC
+      assets/img/research/**         arXiv, Google Scholar, HAL, ORCID,
+                                     ResearchGate, REGII
+      assets/img/about/**            LinkedIn
+      assets/img/favicons/**
+      assets/img/projects/GitHub1.png
+      assets/img/download_link.png
+      assets/img/external_link.png
+
+  * Source code published in separate repositories, which carries its own
+    license as stated in each repository.

@@ -5,6 +5,9 @@ icon: "fa-solid fa-list-ul"
 order: 6
 ---
 
+<!-- > **Media license** &mdash; Unless stated otherwise, the figures, animations and videos on this site are &copy; Oscar L. Cruz Gonz&aacute;lez and released under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt them, including commercially, provided you give appropriate credit and link to the license. Third-party logos and institutional marks are excluded &mdash; see [LICENSE-CONTENT](https://github.com/olcruzgonzalez/olcruzgonzalez.github.io/blob/main/LICENSE-CONTENT) for the exact scope.
+{: .prompt-info } -->
+
 ## Codes
 
 Open source numerical tools. 
@@ -268,3 +271,43 @@ document.addEventListener("DOMContentLoaded", () => {
   
 ![Image](/assets/img/projects/aaa_unsteady/MoV.gif){: width="600" height="300" .w-50 .center}
 ![Image](/assets/img/projects/aaa_unsteady/Pressure.gif){: width="600" height="300" .w-50 .center}
+
+### Aorta
+
+[![Skill](https://img.shields.io/badge/-Biomechanics-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
+[![Skill](https://img.shields.io/badge/-SciML-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
+[![Skill](https://img.shields.io/badge/-AI4Science-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
+[![Skill](https://img.shields.io/badge/-Pytorch-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
+[![Skill](https://img.shields.io/badge/-PINNs-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
+[![Skill](https://img.shields.io/badge/-PIDeepONets-555?style=flat&logo=crystal&logoColor=blue)](https://olcruzgonzalez.github.io/projects/)
+
+  > This code moves the physics-based deep learning workflow beyond idealized geometries and applies it to a patient-specific thoracic aorta. PINNs and PI-DeepONets are trained to reproduce the pulsatile blood flow over a complete cardiac cycle, and their predictions are then assessed against the reference CFD solution.\
+  > It is part of our work on surrogate models for thoracic aorta pathologies, found at the repository [olcruzgonzalez/Aorta](https://github.com/olcruzgonzalez/Aorta)\
+  > ***The code will be made public after peer review and acceptance of our associated manuscript.*
+
+<!-- Encoded from the aorta_*.mkv masters: audio track removed and 4x playback speed baked into each file. -->
+<p>
+  <video class="embed-video file"
+         src="/assets/video/projects/aorta/aorta_MoV.mp4"
+         poster="/assets/video/projects/aorta/aorta_MoV-poster.jpg"
+         controls controlslist="nodownload noplaybackrate" disablepictureinpicture disableremoteplayback
+         autoplay loop muted playsinline preload="metadata"
+         oncontextmenu="return false;">
+    Your browser does not support the video tag.
+  </video>
+  <em>Velocity magnitude over one cardiac cycle: CFD reference (left), PINN prediction (center) and vector error magnitude (right).</em>
+</p>
+
+<p>
+  <video class="embed-video file"
+         src="/assets/video/projects/aorta/aorta_Pressure.mp4"
+         poster="/assets/video/projects/aorta/aorta_Pressure-poster.jpg"
+         controls controlslist="nodownload noplaybackrate" disablepictureinpicture disableremoteplayback
+         autoplay loop muted playsinline preload="metadata"
+         oncontextmenu="return false;">
+    Your browser does not support the video tag.
+  </video>
+  <em>Pressure over the same cardiac cycle: CFD reference (left), PINN prediction (center) and signed error, PINN &minus; CFD (right).</em>
+</p>
+
+---
