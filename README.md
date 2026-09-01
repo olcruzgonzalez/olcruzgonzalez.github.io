@@ -41,6 +41,28 @@ Then clone it to your local machine and run:
 $ bundle
 ```
 
+## Local development
+
+```console
+$ bundle exec jekyll serve
+```
+
+**Before pushing changes that touch inline `<script>` or HTML, build the way the deploy does:**
+
+```console
+$ JEKYLL_ENV=production bundle exec jekyll build
+```
+
+The GitHub Actions workflow sets `JEKYLL_ENV: production`, which activates Chirpy's
+`compress_html` layout. It collapses every newline outside `<pre>`, and it does **not**
+protect `<script>` blocks — so an inline script becomes a single line and any `//` comment
+silently swallows the rest of it. `compress_html.ignore.envs` lists `development`, so a
+normal local build cannot reproduce this: the page works locally and breaks only once
+deployed.
+
+Prefer putting JavaScript in its own file under `assets/js/` — external files are never
+compressed. If a script must be inline, use `/* ... */` comments only.
+
 ## Usage
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
