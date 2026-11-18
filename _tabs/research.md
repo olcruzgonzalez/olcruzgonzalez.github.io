@@ -7,9 +7,9 @@ order: 5
 
 ### In a nutshell
 
-[![Citations](https://img.shields.io/badge/Total_citations-272-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
-[![h-index](https://img.shields.io/badge/8-blue?label=h-index&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
-[![i10-index](https://img.shields.io/badge/7-blue?label=i10-index&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/Total_citations-293-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![h-index](https://img.shields.io/badge/9-blue?label=h-index&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![i10-index](https://img.shields.io/badge/9-blue?label=i10-index&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 
 During the last few years, I have gained scientific and research expertise in several fields of **applied mathematics**. In particular, two areas have caught my attention.
 
@@ -20,7 +20,7 @@ The second area of focus, which I have been working on recently, is the emerging
 <!-- [<img src="/assets/img/research/GoogleScholar1.png" alt="Download link" width="15"/>](https://scholar.google.com/citations?user=SBW8knEAAAAJ\&hl=en) -->
 **Achievements in numbers:** [<img src="/assets/img/research/Arxiv.png" alt="Download link" width="40"/>](https://arxiv.org/a/0000-0002-6739-9429.html) [<img src="/assets/img/research/HAL.png" alt="Download link" width="29"/>](https://hal.science/search/index/?qa%5Bidentifiers_id%5D%5B%5D=oscar-luis-cruz-gonzalez) [<img src="/assets/img/research/Researchgate1.png" alt="Download link" width="18"/>](https://www.researchgate.net/profile/Oscar_Luis_Cruz_Gonzalez) [<img src="/assets/img/research/ORCID1.png" alt="Download link" width="18"/>](https://orcid.org/0000-0002-6739-9429)
 
-- 12 articles, 3 preprint, 3 chapters in books, 7 conference proceedings
+- 14 articles, 1 preprint, 3 chapters in books, 8 conference proceedings
 - 30+ events: conferences, congresses, symposiums, workshops & seminars.
 
 ### Preprints
@@ -30,16 +30,18 @@ The second area of focus, which I have been working on recently, is the emerging
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.48550/arXiv.2608.13629)
 [<img src="/assets/img/access_to_code.png" alt="Access to code" title="Access to code" width="15"/>](/projects/#aaa_unsteady)
 
-0. C. Quesada-González, **O.L. Cruz-González**, R. Rodríguez-Ramos, B. Mederos, Y. Espinosa-Almeyda and J. Merodio. *Multiscale modeling of composite materials: A hybrid approach integrating asymptotic homogenization and physics-informed neural networks*. Submitted to Proceedings of the Royal Society A.
-[<img src="/assets/img/access_to_code.png" alt="Access to code" title="Access to code" width="15"/>](/projects/?project=laminated_3d#project-finder)
-
-0. B. Mederos, Y. Espinosa-Almeyda, **O.L. Cruz-González**, R. Rodríguez-Ramos and A.C. Alvarez. *Physics-Informed Neural Networks for predicting homogenized effective properties of one-dimensional composites with imperfect interface*. Submitted to Mathematics and Mechanics of Solids.
-[<img src="/assets/img/access_to_code.png" alt="Access to code" title="Access to code" width="15"/>](/projects/?project=elastic_1d_imperfect#project-finder)
-
 ### Articles
 
+0. C. Quesada-González, **O.L. Cruz-González**, R. Rodríguez-Ramos, B. Mederos, Y. Espinosa-Almeyda, J. Merodio (**2026**).  *Multi-scale modelling of composite materials: a hybrid approach integrating asymptotic homogenization and physics-informed neural networks*. Proceedings of the Royal Society A 482(2350), 20260542.
+[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.1098/rspa.2026.0542)
+[<img src="/assets/img/access_to_code.png" alt="Access to code" title="Access to code" width="15"/>](/projects/?project=laminated_3d#project-finder)
+
+0. B. Mederos, Y. Espinosa-Almeyda, **O.L. Cruz-González**, R. Rodríguez-Ramos, A.C. Alvarez (**2026**).  *Physics-informed neural networks for predicting homogenized effective properties of one-dimensional composites with imperfect interface*. Mathematics and Mechanics of Solids (online first).
+[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.1177/10812865261486846)
+[<img src="/assets/img/access_to_code.png" alt="Access to code" title="Access to code" width="15"/>](/projects/?project=elastic_1d_imperfect#project-finder)
+
 0. **O.L. Cruz-González**, V. Deplano, B. Ghattas (**2026**).  *Enhanced vascular flow simulations in aortic aneurysm via physics-informed neural networks and deep operator networks*. Mechanics Research Communications 153, 104642.
-[![Citations](https://img.shields.io/badge/citations-6-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en) 
+[![Citations](https://img.shields.io/badge/citations-12-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en) 
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://hal.science/hal-05504252v1/document)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.1016/j.mechrescom.2026.104642) <!-- Author's rights --> 
 [<img src="/assets/img/access_to_code.png" alt="Access to code" title="Access to code" width="15"/>](/projects/#aaa_steady)
@@ -51,7 +53,7 @@ The second area of focus, which I have been working on recently, is the emerging
 [<img src="/assets/img/access_to_code.png" alt="Access to code" title="Access to code" width="15"/>](/projects/#pyhom)
 
 0. **O.L. Cruz-González**, R. Rodríguez-Ramos, F. Lebon, F.J. Sabina (**2022**).  *Modeling of imperfect viscoelastic interfaces in composite materials*. Coatings, 12(5), 705. 
-[![Citations](https://img.shields.io/badge/citations-6-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/citations-8-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://hal.science/hal-03674826v1/document)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.3390/coatings12050705) <!-- Author's rights -->
 
@@ -60,12 +62,12 @@ The second area of focus, which I have been working on recently, is the emerging
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.1007/s00419-022-02181-7) <!-- Author's rights -->
 
 0. **O.L. Cruz-González**, A. Ramírez-Torres, R. Rodríguez-Ramos, R. Penta, F. Lebon (**2022**).  *Hierarchical heterogeneous one-dimensional problem in linear viscoelastic media*. European Journal of Mechanics - A/Solids.
-[![Citations](https://img.shields.io/badge/citations-8-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/citations-10-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://hal.science/hal-03655589v1/document)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.1016/j.euromechsol.2022.104617) <!-- Author's rights -->
 
 0. **O.L. Cruz-González**, A. Ramírez-Torres, R. Rodríguez-Ramos, J.A. Otero, R. Penta, F. Lebon (**2021**).  *Effective behavior of long and short fiber-reinforced viscoelastic composites*. Applications in Engineering Science 6, 100037. 
-[![Citations](https://img.shields.io/badge/citations-32-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/citations-34-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://hal.archives-ouvertes.fr/hal-03183369/document)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.1016/j.apples.2021.100037)<!-- Author's rights -->
 
@@ -75,25 +77,25 @@ The second area of focus, which I have been working on recently, is the emerging
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.1016/j.ijengsci.2020.103377)<!-- Author's rights -->
 
 0. J.A. Otero, R. Rodríguez-Ramos, R. Guinovart-Díaz,  **O.L. Cruz-González**, F.J. Sabina, H. Berger,  T. Böhlke (**2020**).  *Asymptotic and numerical homogenization methods applied to fibrous viscoelastic composites using Prony’s series*. Acta Mechanica volume 231, 2761–2771. 
-[![Citations](https://img.shields.io/badge/citations-43-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/citations-44-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://link.springer.com/article/10.1007/s00707-020-02671-1)<!-- Author's rights -->
 
 0.	**O.L. Cruz-González**, A. Ramírez-Torres, R. Rodríguez-Ramos, R. Penta, J. Bravo-Castillero, R. Guinovart-Díaz, J. Merodio,  F.J. Sabina, F. Lebon (**2020**). *A hierarchical asymptotic homogenization approach for viscoelastic composites*. Mechanics of Advanced Materials and Structures. 
-[![Citations](https://img.shields.io/badge/citations-27-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/citations-28-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://hal.science/hal-02340069/document)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.tandfonline.com/doi/full/10.1080/15376494.2020.1722872)<!-- Author's rights -->
 
 0. R. Rodríguez-Ramos, J.A. Otero, **O.L. Cruz-González**, R. Guinovart-Díaz,  J. Bravo-Castillero, F.J. Sabina, P. Padilla, F. Lebon,  I. Sevostianov (**2020**). *Computation of the relaxation effective moduli for fibrous viscoelastic composites using the asymptotic homogenization method*. International Journal of Solids and Structures, 190, 281–290. 
-[![Citations](https://img.shields.io/badge/citations-50-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/citations-53-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.sciencedirect.com/science/article/pii/S0020768319304743)<!-- Author's rights -->
 
 0.	**O.L. Cruz-González**, D. Guinovart-Sanjuán, R. Rodríguez-Ramos, J. Bravo-Castillero, R. Guinovart-Díaz, J. Merodio, R. Penta, J.A. Otero, S. Dumont, F. Lebon,  F.J. Sabina (**2019**). *An approach for modeling non-ageing linear viscoelastic composites with general periodicity*. Composite Structures, 223, 110927. 
-[![Citations](https://img.shields.io/badge/citations-8-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/citations-9-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://hal.science/hal-02336659/file/Gonzalez2019c.pdf)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.sciencedirect.com/science/article/pii/S0263822318344945)<!-- Author's rights -->
 
 0. **O.L. Cruz-González**, R. Rodríguez-Ramos, J. Bravo-Castillero, R. Martínez-Rosado, R. Guinovart-Díaz, J.A. Otero, F.J. Sabina (**2017**). *Effective viscoelastic properties of one-dimensional composites*. American Research Journal of Physics; V3, I1; pp: 1-17. 
-[![Citations](https://img.shields.io/badge/citations-10-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/citations-11-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://www.arjonline.org/papers/arjps/v3-i1/2.pdf)
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://www.arjonline.org/american-research-journal-of-physics/volume-3)<!-- Author's rights -->
 {: reversed="reversed"}
@@ -121,7 +123,11 @@ The second area of focus, which I have been working on recently, is the emerging
 
 ### Publications in proceedings with reviews
 
+0. MECSOL 2026: 10th International Symposium on Solid Mechanics. **October 19-21, 2026**. São José dos Campos, SP, Brazil. A.R. de Faria, D.A. Rade and M.A. Arbelo (Editors).  Amaury Alvarez Cruz, Boris Mederos, **Oscar L. Cruz-González**, Reinaldo Rodríguez-Ramos, Panters Rodríguez Bermúdez, Yoanh Espinosa-Almeyda, José Merodio, Carlos Quesada-González, Daniel Alfaro Vigo. *Coupling Asymptotic Homogenization and Physics-Informed Neural Networks for Forward and Inverse Analysis of Multiphase Periodic Composites*.  Proceedings of the conference.
+[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.26678/abcm.mecsol2026.mec26-0140)
+
 0. SB2025-Marseille: 50th Congress of the Biomechanics Society. **October 27-29, 2025**. Marseille, France.  **Oscar L. Cruz-González**, Valérie Deplano, Badih Ghattas. *Physics-Informed Deep Learning Surrogates for Aneurysm Blood Flow Simulation*.  Proceedings of the conference. 
+[![Citations](https://img.shields.io/badge/citations-2-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=SBW8knEAAAAJ&hl=en)
 [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://mbj.episciences.org/articles/16176) 
 [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://sb2025-marseille.sciencesconf.org/)<!-- Author's rights -->
 
@@ -152,6 +158,9 @@ The second area of focus, which I have been working on recently, is the emerging
 ### Conferences | Congresses | Symposiums | Workshops | Seminars
 
 #### 2026
+
+- **(Symposium)** MECSOL 2026: 10th International Symposium on Solid Mechanics. **October 19-21, 2026**. São José dos Campos, SP, Brazil. Speaker: Panters Rodríguez Bermúdez. *Coupling Asymptotic Homogenization and Physics-Informed Neural Networks for Forward and Inverse Analysis of Multiphase Periodic Composites*. Authors:  Amaury Alvarez Cruz, Boris Mederos, **Oscar L. Cruz-González**, Reinaldo Rodríguez-Ramos, Panters Rodríguez Bermúdez, Yoanh Espinosa-Almeyda, José Merodio, Carlos Quesada-González, Daniel Alfaro Vigo.
+[<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://doi.org/10.26678/abcm.mecsol2026.mec26-0140)
 
 - **(Workshop)** XX Taller de Física de la Materia Condensada y Molecular. **June 22-24, 2026**. Cuernavaca, Morelos, México. [<img src="/assets/img/download_link.png" alt="Download link" width="15"/>](https://cinc.uaem.mx/wp-content/uploads/2026/07/LibroResumenesXXTallerFisMatCondyMol.pdf) [<img src="/assets/img/external_link.png" alt="External link" width="15"/>](https://cinc.uaem.mx/ediciones/)\
 Speaker: Reinaldo Rodríguez-Ramos. *PINN-Assisted Asymptotic Homogenization of one-dimensional composites with interface effects*. Authors:  Reinaldo Rodríguez-Ramos, Boris Mederos, Yoanh Espinosa-Almeyda, Héctor Camacho-Montes, **Oscar L. Cruz-González**, Amaury C. Álvarez, José A. Otero.\
